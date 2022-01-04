@@ -1,110 +1,81 @@
 {
   ".svelte-kit/build/runtime/internal/start.js": {
-    "file": "start-04ecd7e3.js",
+    "file": "start-927e8b36.js",
     "src": ".svelte-kit/build/runtime/internal/start.js",
     "isEntry": true,
     "imports": [
-      "_vendor-24134078.js"
+      "_vendor-66fc1351.js"
     ],
     "dynamicImports": [
       "src/routes/__layout.svelte",
       ".svelte-kit/build/components/error.svelte",
       "src/routes/index.svelte",
       "src/routes/writing/__layout.svelte",
-      "src/routes/writing/test-blog.md",
-      "src/routes/about.svelte",
-      "src/routes/todos/index.svelte"
+      "src/routes/writing/test-blog.md"
     ],
     "css": [
       "assets/start-61d1577b.css"
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-eb12c2cb.js",
+    "file": "pages/__layout.svelte-106df8d5.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-24134078.js"
+      "_vendor-66fc1351.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-a7861b78.css"
+      "assets/pages/__layout.svelte-581bb27b.css"
     ],
     "assets": [
-      "assets/svelte-logo-87df40b8.svg",
-      "assets/fira-mono-cyrillic-ext-400-normal-b3140dd3.woff2",
-      "assets/fira-mono-all-400-normal-0d19eb5d.woff",
-      "assets/fira-mono-cyrillic-400-normal-046b609f.woff2",
-      "assets/fira-mono-greek-ext-400-normal-8659ae46.woff2",
-      "assets/fira-mono-greek-400-normal-1f8b3a07.woff2",
-      "assets/fira-mono-latin-ext-400-normal-b6331a25.woff2",
-      "assets/fira-mono-latin-400-normal-a2f9dbe8.woff2"
+      "assets/lato-latin-ext-400-normal-2b7ad361.woff2",
+      "assets/lato-all-400-normal-b687a15f.woff",
+      "assets/lato-latin-400-normal-c3c0d3f4.woff2",
+      "assets/carter-one-latin-400-normal-84dc963c.woff2",
+      "assets/carter-one-all-400-normal-10e6fc56.woff"
     ]
   },
   ".svelte-kit/build/components/error.svelte": {
-    "file": "error.svelte-4977c34d.js",
+    "file": "error.svelte-78149bb9.js",
     "src": ".svelte-kit/build/components/error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-24134078.js"
+      "_vendor-66fc1351.js"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-8cf27951.js",
+    "file": "pages/index.svelte-d707fe2a.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-24134078.js"
+      "_vendor-66fc1351.js"
     ],
     "css": [
       "assets/pages/index.svelte-c63fe1c6.css"
     ]
   },
   "src/routes/writing/__layout.svelte": {
-    "file": "pages/writing/__layout.svelte-f518bf2d.js",
+    "file": "pages/writing/__layout.svelte-cd16275d.js",
     "src": "src/routes/writing/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-24134078.js"
+      "_vendor-66fc1351.js"
     ]
   },
   "src/routes/writing/test-blog.md": {
-    "file": "pages/writing/test-blog.md-61fd47e8.js",
+    "file": "pages/writing/test-blog.md-d3833571.js",
     "src": "src/routes/writing/test-blog.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-24134078.js"
+      "_vendor-66fc1351.js"
     ]
   },
-  "src/routes/about.svelte": {
-    "file": "pages/about.svelte-85262272.js",
-    "src": "src/routes/about.svelte",
-    "isEntry": true,
-    "isDynamicEntry": true,
-    "imports": [
-      "_vendor-24134078.js"
-    ],
-    "css": [
-      "assets/pages/about.svelte-bf4528fa.css"
-    ]
-  },
-  "src/routes/todos/index.svelte": {
-    "file": "pages/todos/index.svelte-930d7da4.js",
-    "src": "src/routes/todos/index.svelte",
-    "isEntry": true,
-    "isDynamicEntry": true,
-    "imports": [
-      "_vendor-24134078.js"
-    ],
-    "css": [
-      "assets/pages/todos/index.svelte-784042c1.css"
-    ]
-  },
-  "_vendor-24134078.js": {
-    "file": "chunks/vendor-24134078.js"
+  "_vendor-66fc1351.js": {
+    "file": "chunks/vendor-66fc1351.js"
   }
 }
