@@ -1,9 +1,23 @@
 <script context="module">
 	export const prerender = true;
+	/**
+	 * @type {import('@sveltejs/kit').Load}
+	 */
+	export async function load({ fetch }) {
+		// Use a `limit` querystring parameter to fetch a limited number of posts
+		// e.g. fetch('posts.json?limit=5') for 5 most recent posts
+		const posts = await fetch('/writing.json').then((res) => res.json());
+		return {
+			props: {
+				posts
+			}
+		};
+	}
 </script>
 
 <script>
 	import Counter from '$lib/Counter.svelte';
+	export let posts;
 </script>
 
 <svelte:head>
@@ -27,6 +41,11 @@
 	</h2>
 
 	<Counter />
+
+	{#each posts as { slug, title, author, description, date }}
+		{title}, {author}, {description}, {date}
+		<a href="/writing/{slug}">GO</a>
+	{/each}
 </section>
 
 <style>

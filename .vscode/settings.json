@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "svelte-intellisense.trace.server": "messages",
+  "editor.tabSize": 2,
+  "eslint.validate": [
+    "javascript",
+    "svelte"
+  ],
+  "problems.showCurrentInStatus": true,
+  "eslint.workingDirectories": [
+    "./src"
+  ]
+}
