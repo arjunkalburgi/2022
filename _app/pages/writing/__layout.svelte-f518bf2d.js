@@ -1,0 +1,7 @@
+import{S as O,i as $,s as y,L as z,e as C,t as m,j as H,c as I,a as L,g as d,d as n,l as M,f as r,I as N,h as S,M as A,N as B,O as D,p as F,n as G}from"../../chunks/vendor-24134078.js";function J(a){let s,i=a[0].title+"",_,p,u,o=a[0].description+"",b,E,v=a[0].author+"",c,w,h=a[0].date+"",j,P,f;const k=a[2].default,l=z(k,a,a[1],null);return{c(){s=C("h1"),_=m(i),p=H(),u=C("p"),b=m(o),E=m(`
+
+author=`),c=m(v),w=m(`
+date=`),j=m(h),P=H(),l&&l.c()},l(t){s=I(t,"H1",{});var e=L(s);_=d(e,i),e.forEach(n),p=M(t),u=I(t,"P",{});var q=L(u);b=d(q,o),q.forEach(n),E=d(t,`
+
+author=`),c=d(t,v),w=d(t,`
+date=`),j=d(t,h),P=M(t),l&&l.l(t)},m(t,e){r(t,s,e),N(s,_),r(t,p,e),r(t,u,e),N(u,b),r(t,E,e),r(t,c,e),r(t,w,e),r(t,j,e),r(t,P,e),l&&l.m(t,e),f=!0},p(t,[e]){(!f||e&1)&&i!==(i=t[0].title+"")&&S(_,i),(!f||e&1)&&o!==(o=t[0].description+"")&&S(b,o),(!f||e&1)&&v!==(v=t[0].author+"")&&S(c,v),(!f||e&1)&&h!==(h=t[0].date+"")&&S(j,h),l&&l.p&&(!f||e&2)&&A(l,k,t,t[1],f?D(k,t[1],e,null):B(t[1]),null)},i(t){f||(F(l,t),f=!0)},o(t){G(l,t),f=!1},d(t){t&&n(s),t&&n(p),t&&n(u),t&&n(E),t&&n(c),t&&n(w),t&&n(j),t&&n(P),l&&l.d(t)}}}async function R({url:a,fetch:s}){const i=await s(`${a.pathname}.json`).then(_=>_.json());return!i||!i.published?{status:404,error:new Error("Post could not be found")}:{props:{post:i}}}function K(a,s,i){let{$$slots:_={},$$scope:p}=s,{post:u}=s;return a.$$set=o=>{"post"in o&&i(0,u=o.post),"$$scope"in o&&i(1,p=o.$$scope)},[u,p,_]}class T extends O{constructor(s){super();$(this,s,K,J,y,{post:0})}}export{T as default,R as load};
