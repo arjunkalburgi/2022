@@ -1,6 +1,6 @@
 {
   ".svelte-kit/build/runtime/internal/start.js": {
-    "file": "start-927e8b36.js",
+    "file": "start-e0e9b9a0.js",
     "src": ".svelte-kit/build/runtime/internal/start.js",
     "isEntry": true,
     "imports": [
@@ -11,6 +11,23 @@
       ".svelte-kit/build/components/error.svelte",
       "src/routes/index.svelte",
       "src/routes/writing/__layout.svelte",
+      "src/routes/writing/2019-04-21_better-code-thanks-to-twitter.md",
+      "src/routes/writing/2018-05-28_conversations-with-wikipedia.md",
+      "src/routes/writing/2020-01-18_creating-great-experiences.md",
+      "src/routes/writing/2018-11-20_animating-with-greensock.md",
+      "src/routes/writing/2021-02-25_being-a-dev-that-designs.md",
+      "src/routes/writing/2017-12-14_confidence-and-anxiety.md",
+      "src/routes/writing/2017-07-19_blindglasses-project.md",
+      "src/routes/writing/2017-12-20_6he-6ty-that-ma6e-me.md",
+      "src/routes/writing/2021-04-21_nylas-team-hackathon.md",
+      "src/routes/writing/2019-12-30_2019-year-in-review.md",
+      "src/routes/writing/2020-12-05_another-for-toronto.md",
+      "src/routes/writing/2019-11-05_swipe-to-confirm.md",
+      "src/routes/writing/2016-09-01_new-blog-new-me.md",
+      "src/routes/writing/2019-04-22_arty-notes.md",
+      "src/routes/writing/2017-01-02_cloudycar.md",
+      "src/routes/writing/2017-09-11_slackify.md",
+      "src/routes/writing/2019-01-15_shoutbox.md",
       "src/routes/writing/test-blog.md"
     ],
     "css": [
@@ -46,7 +63,7 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-d707fe2a.js",
+    "file": "pages/index.svelte-37f8fe04.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -54,12 +71,165 @@
       "_vendor-66fc1351.js"
     ],
     "css": [
-      "assets/pages/index.svelte-c63fe1c6.css"
+      "assets/pages/index.svelte-0fd6521d.css"
     ]
   },
   "src/routes/writing/__layout.svelte": {
-    "file": "pages/writing/__layout.svelte-cd16275d.js",
+    "file": "pages/writing/__layout.svelte-92608b78.js",
     "src": "src/routes/writing/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-66fc1351.js"
+    ]
+  },
+  "src/routes/writing/2019-04-21_better-code-thanks-to-twitter.md": {
+    "file": "pages/writing/2019-04-21_better-code-thanks-to-twitter.md-786dc64e.js",
+    "src": "src/routes/writing/2019-04-21_better-code-thanks-to-twitter.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-66fc1351.js"
+    ]
+  },
+  "src/routes/writing/2018-05-28_conversations-with-wikipedia.md": {
+    "file": "pages/writing/2018-05-28_conversations-with-wikipedia.md-36fb46a6.js",
+    "src": "src/routes/writing/2018-05-28_conversations-with-wikipedia.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-66fc1351.js"
+    ]
+  },
+  "src/routes/writing/2020-01-18_creating-great-experiences.md": {
+    "file": "pages/writing/2020-01-18_creating-great-experiences.md-9022f5b2.js",
+    "src": "src/routes/writing/2020-01-18_creating-great-experiences.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-66fc1351.js"
+    ]
+  },
+  "src/routes/writing/2018-11-20_animating-with-greensock.md": {
+    "file": "pages/writing/2018-11-20_animating-with-greensock.md-a225a83e.js",
+    "src": "src/routes/writing/2018-11-20_animating-with-greensock.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-66fc1351.js"
+    ]
+  },
+  "src/routes/writing/2021-02-25_being-a-dev-that-designs.md": {
+    "file": "pages/writing/2021-02-25_being-a-dev-that-designs.md-ae047c0d.js",
+    "src": "src/routes/writing/2021-02-25_being-a-dev-that-designs.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-66fc1351.js"
+    ]
+  },
+  "src/routes/writing/2017-12-14_confidence-and-anxiety.md": {
+    "file": "pages/writing/2017-12-14_confidence-and-anxiety.md-6533aea5.js",
+    "src": "src/routes/writing/2017-12-14_confidence-and-anxiety.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-66fc1351.js"
+    ]
+  },
+  "src/routes/writing/2017-07-19_blindglasses-project.md": {
+    "file": "pages/writing/2017-07-19_blindglasses-project.md-b05a2d6f.js",
+    "src": "src/routes/writing/2017-07-19_blindglasses-project.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-66fc1351.js"
+    ]
+  },
+  "src/routes/writing/2017-12-20_6he-6ty-that-ma6e-me.md": {
+    "file": "pages/writing/2017-12-20_6he-6ty-that-ma6e-me.md-65c0dc01.js",
+    "src": "src/routes/writing/2017-12-20_6he-6ty-that-ma6e-me.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-66fc1351.js"
+    ]
+  },
+  "src/routes/writing/2021-04-21_nylas-team-hackathon.md": {
+    "file": "pages/writing/2021-04-21_nylas-team-hackathon.md-5fd9c07f.js",
+    "src": "src/routes/writing/2021-04-21_nylas-team-hackathon.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-66fc1351.js"
+    ]
+  },
+  "src/routes/writing/2019-12-30_2019-year-in-review.md": {
+    "file": "pages/writing/2019-12-30_2019-year-in-review.md-2b538c59.js",
+    "src": "src/routes/writing/2019-12-30_2019-year-in-review.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-66fc1351.js"
+    ]
+  },
+  "src/routes/writing/2020-12-05_another-for-toronto.md": {
+    "file": "pages/writing/2020-12-05_another-for-toronto.md-200f16f7.js",
+    "src": "src/routes/writing/2020-12-05_another-for-toronto.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-66fc1351.js"
+    ]
+  },
+  "src/routes/writing/2019-11-05_swipe-to-confirm.md": {
+    "file": "pages/writing/2019-11-05_swipe-to-confirm.md-3b7e5e85.js",
+    "src": "src/routes/writing/2019-11-05_swipe-to-confirm.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-66fc1351.js"
+    ]
+  },
+  "src/routes/writing/2016-09-01_new-blog-new-me.md": {
+    "file": "pages/writing/2016-09-01_new-blog-new-me.md-f62bed3a.js",
+    "src": "src/routes/writing/2016-09-01_new-blog-new-me.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-66fc1351.js"
+    ]
+  },
+  "src/routes/writing/2019-04-22_arty-notes.md": {
+    "file": "pages/writing/2019-04-22_arty-notes.md-e8d59145.js",
+    "src": "src/routes/writing/2019-04-22_arty-notes.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-66fc1351.js"
+    ]
+  },
+  "src/routes/writing/2017-01-02_cloudycar.md": {
+    "file": "pages/writing/2017-01-02_cloudycar.md-231aa68d.js",
+    "src": "src/routes/writing/2017-01-02_cloudycar.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-66fc1351.js"
+    ]
+  },
+  "src/routes/writing/2017-09-11_slackify.md": {
+    "file": "pages/writing/2017-09-11_slackify.md-98c88633.js",
+    "src": "src/routes/writing/2017-09-11_slackify.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-66fc1351.js"
+    ]
+  },
+  "src/routes/writing/2019-01-15_shoutbox.md": {
+    "file": "pages/writing/2019-01-15_shoutbox.md-ec7389cd.js",
+    "src": "src/routes/writing/2019-01-15_shoutbox.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
