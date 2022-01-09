@@ -19,7 +19,7 @@ I've had these floating leaves on my website for nearly 2 years. At first they w
 View on [GitHub](github.com/arjunkalburgi/arjunanimation_leaves).
 View on [NPM](https://www.npmjs.com/package/@arjunanimations/leaves).
 
-<img src="/post-images/leavesgif.gif" />
+<img  alt="" src="/post-images/leavesgif.gif" />
 
 The best part about them is how they separate my website from so many other portfolio sites. I don't think my website design is all that great, but these leaves bring a wow factor. As I built and designed websites for friends and tas.health's Shopify store, that wow factor was centered in my mind.
 
@@ -90,7 +90,7 @@ I need to make the Shopify app so that businesses can add leaves to their site! 
 
 If you know how to make Shopify apps, help me out! Finding it confusing so far 😅
 
-<img src="/post-images/leavesgif.gif" />
+<img  alt="" src="/post-images/leavesgif.gif" />
 
 ---
 

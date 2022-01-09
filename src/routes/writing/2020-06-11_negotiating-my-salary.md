@@ -55,7 +55,7 @@ One of the significant underlying takeaways I learned by doing this is how attit
 
 There was some parts of my research that I left out from above. We took the yearly revenue of the company and divided by number of employees to get an idea of how much each employee contributes to the revenue. It shed some light on why the company wanted to open a Toronto office and how much they could save by doing so. Using public data like this is smart and I will continue to do so in the future.
 
-<img src="/post-images/leavesgif.gif" />
+<img  alt="" src="/post-images/leavesgif.gif" />
 
 #### PS: Comment on the Wage Gap
 

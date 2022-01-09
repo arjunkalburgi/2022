@@ -16,7 +16,7 @@ I remember the first time I ever thought about usability and accessibility. Back
 
 I complained to the senior year CompE students, and they answered matter-of-factly that we should put it on the Internet then. They taught me Flask and taught me about the Client-Server relationship, how AJAX worked, and even how to host the site. (It's still live today at [connectfour275.herokuapp.com](connectfour275.herokuapp.com).)
 
-<img src="/post-images/2020-03-23_life-story-update-2020/connect4.png" />
+<img  alt="" src="/post-images/2020-03-23_life-story-update-2020/connect4.png" />
 
 But damn that site was/is ugly, 😂 it prompted me to start studying UX in my free time (starting with Don Norman’s Design of Everyday Things) and I became that designer CompE, advocating for it in other [group projects](https://github.com/arjunkalburgi/CloudyCar).
 
@@ -40,7 +40,7 @@ We created such a [big impact](https://www.arjunkalburgi.com/writing/growth-hack
 
 As I was studying CompE, learning UX, and organizing hackathons, I soon learned that visual design is a key component to creating the exceptional user experience I was after. So upon completing my degree, I enrolled in RED Academy's UI course - not to become a designer, but to learn the craft and speak the language.
 
-<img src="/post-images/2020-03-23_life-story-update-2020/arjunatred.jpg" />
+<img  alt="" src="/post-images/2020-03-23_life-story-update-2020/arjunatred.jpg" />
 
 The course was a lot of fun with design challenges and client projects. I also got to work with the UX students and learn a bit of their process and methods. For one project, my shy UX groupmates had me conduct their UX interviews because I was a lot better at it 😂 teaching myself throughout university really paid off for that project.
 
@@ -84,7 +84,7 @@ There's still a lot of learning for me to do. I want to become a better accessib
 
 But overall this life story update ends with a big smile. Professionally speaking, I'm very proud of myself. 😃❤️
 
-<img src="/post-images/arjun2020.jpg" />
+<img  alt="" src="/post-images/arjun2020.jpg" />
 
 ---
 

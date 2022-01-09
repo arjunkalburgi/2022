@@ -5,10 +5,10 @@ date: '2017-07-19'
 categories: []
 keywords: []
 published: true
-cover: "https://cdn-images-1.medium.com/max/800/1*DiYYJ_KRAY1jDjIbgSmnaQ.jpeg"
+cover: 'https://cdn-images-1.medium.com/max/800/1*DiYYJ_KRAY1jDjIbgSmnaQ.jpeg'
 ---
 
-<img src="https://cdn-images-1.medium.com/max/800/1*ENGFDsKdRgxpl91gJC8a7w.png" />
+<img src="https://cdn-images-1.medium.com/max/800/1*ENGFDsKdRgxpl91gJC8a7w.png" alt="" />
 
 > The following is a writeup for HackTheNorth2017 application, answering the question — what recent project are you most proud of.
 
@@ -27,4 +27,4 @@ Looking at comparable glasses online, they’re all extremely large and weird-lo
 
 > **Links:** [Devpost](https://devpost.com/software/let-me-see), [Github](https://github.com/askalburgi/helpmesee)
 
-<img src="https://cdn-images-1.medium.com/max/800/1*ENGFDsKdRgxpl91gJC8a7w.png" />
+<img  alt="" src="https://cdn-images-1.medium.com/max/800/1*ENGFDsKdRgxpl91gJC8a7w.png" />
