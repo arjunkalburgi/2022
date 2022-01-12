@@ -8,8 +8,6 @@ published: true
 oldslugthing: /the-hacker-questionnaire-870ff832ed4f
 ---
 
-> Filling out MLH’s Coaching Application Questionnaire
-
 #### Of your time in the hacker community, what are you most proud of?
 
 My time in the hacker community has been split between attending hackathons and running my own. In my second last semester of school I attended MLH hackathons all over North America and it was amazing. I ended up attending four: PennApps, MHacks, EduHacks and HackTX, as well as a weeklong trip to San Fransisco. Travelling and hacking is such a blessing and I’m really proud of myself for making the opportunity to do so. That being said, watching Edmonton’s hacking community grow over the last 3 years I’ve been running HackED has been even more special. I’ve seen students change their entire career path after attending hackathons. Giving students the realization of what their capable of is so special.

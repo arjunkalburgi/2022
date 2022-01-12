@@ -8,8 +8,6 @@ oldslugthing: /2020-03-23_life-story-update-2020
 cover: /post-images/arjun2020.jpg
 ---
 
-> Over the last 5 years I've been learning strong UX skills to build web interfaces and products that connect and enable people. I want to look back on this journey, thinking about where I've been and some of the specific memories I have.
-
 ## The beginning
 
 I remember the first time I ever thought about usability and accessibility. Back in 2014, my second year of Computer Engineering (CompE) my class assignment was to build a python game. Everyone was using pygame for their frontend but to me that didn't make sense - no one could play my game if it just sat on my computer. It needed to be on the Internet, where everone could access it regardless of their device or mobile OS (Android vs iOS was huge at the time).

@@ -12,8 +12,6 @@ oldslugthing: /creating-a-swipe-to-confirm-component
 cover: https://www.arjunkalburgi.com/writing/assets/static/final.8e3a09a.6e883588bad609a43065f7294e5e56ab.gif
 ---
 
-> The Amazon app features a Slide-to-Confirm element inspired by Apple's "Swipe to Unlock". Surprisingly, a similar component is nowhere on the internet, so I'll need to create it myself.
-
 ### Intro
 
 In this post I build a Slide-to-Confirm component.

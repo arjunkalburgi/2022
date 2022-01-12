@@ -13,4 +13,4 @@ I’ve been thinking…![I’ve spent 5 years getting this ring, 5 difficult yea
 I’ve spent 5 years getting this ring, 5 difficult years …![… but life isn’t over yet, there’s still more. …](https://cdn-images-1.medium.com/max/800/1*ZDgC_bVv3bTPfMWrsKlorQ.png)
 … but life isn’t over yet, there’s still more. …![… I look forward, with 5 years of lessons with me …](https://cdn-images-1.medium.com/max/800/1*bGXjWJfSB1IrZpiKaFUUTQ.png)
 … I look forward, with 5 years of lessons with me …![… confident that the goof in me can make it through what’s next.](https://cdn-images-1.medium.com/max/800/1*BJy7CsCBF6c8LdUVXhlhPw.jpeg)
-… confident that the goof in me can make it through what’s next.![](https://cdn-images-1.medium.com/max/800/1*3_pVQ9n_GCOr21L_hhVuJQ.png)
+… confident that the goof in me can make it through what’s next.![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*3_pVQ9n_GCOr21L_hhVuJQ.png)

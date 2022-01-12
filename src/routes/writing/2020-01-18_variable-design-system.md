@@ -8,8 +8,6 @@ oldslugthing: /Creating-a-Variable-Design-System
 cover: '/post-images/arjun2020.jpg'
 ---
 
-> The brief for this project is to create an Ionic app that can be re-themed based on different brands.
-
 Should be a fun little project indeed. The idea is to expand on Ionic Framework's existing `variables.scss` to feature colours, fonts, opacities, shadows, radii and maybe even spacing. Then in a build process, reconfigure file/(s) so that the app is built with different variables.
 
 ### Step 1: Design Tokens

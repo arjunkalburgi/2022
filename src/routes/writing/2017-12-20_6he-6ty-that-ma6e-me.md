@@ -10,11 +10,11 @@ published: true
 cover: "https://cdn-images-1.medium.com/max/800/1*k3x4eNfGaG54H9skwyKeSA.png"
 ---
 
-![](https://cdn-images-1.medium.com/max/800/1*k3x4eNfGaG54H9skwyKeSA.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*k3x4eNfGaG54H9skwyKeSA.png)
 
 Today I walked around Toronto, the same streets I walked around three and a half years ago.
 
-![](https://cdn-images-1.medium.com/max/600/1*WoeWMNVfl0bQ5N18XPgmRA.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/600/1*WoeWMNVfl0bQ5N18XPgmRA.jpeg)
 
 Memories flooded back like watching ghosts. “Here’s the bank I deposited my first Developer earnings in”, “Here’s where I had my first beer”, “Here’s where I bought the earmuffs I’m wearing right now!”
 
@@ -28,4 +28,4 @@ I want to change that, and I think I will now.
 
 Thanks Toronto, you again are the city that keeps building me up.
 
-![](https://cdn-images-1.medium.com/max/800/1*QYKhx46z4iJ6eGeqonqkOw.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*QYKhx46z4iJ6eGeqonqkOw.jpeg)

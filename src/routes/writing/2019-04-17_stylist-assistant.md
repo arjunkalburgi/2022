@@ -2,7 +2,7 @@
 title: 'Stylist Assistant, updating stylists to do more'
 description: >-
   My final year capstone project helps personal stylists recommend daily outfits
-  for their clients and shows  potential for market…
+  for their clients and shows  potential for market disruption.
 date: '2019-04-17'
 categories: []
 keywords: []
@@ -11,15 +11,13 @@ oldslugthing: /2019-04-17_stylist-assistant-updating-stylists-to-do-more
 cover: 'https://cdn-images-1.medium.com/max/800/1*SISeI0rwJZYMaDVVocYF3g.png'
 ---
 
-> My final year capstone project helps personal stylists recommend daily outfits for their clients and shows potential for market disruption.
-
 ### Introduction
 
 The Stylist Assistant is a companion for stylists and their clients. In the industry today, personal stylists work with their clients closely, often on a daily basis, helping them achieve the client’s desired personal style goal. This makes being a personal stylist a full-time job, and hiring a personal stylist very expensive. Hence, very few people have a personal stylist.
 
 By reducing the stylist’s time commitment we can reduce the time and cost barriers for clients, thus increasing the demand in the industry.
 
-![](https://cdn-images-1.medium.com/max/800/1*H2VpCIxNt9mqV1Jff74W1Q.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*H2VpCIxNt9mqV1Jff74W1Q.jpeg)
 
 ##### Collaborators
 
@@ -33,7 +31,7 @@ The project’s potential to disrupt and grow the industry to a large degree mak
 
 > [View presentation slides for Stylist Assistant here.](https://docs.google.com/presentation/d/1U4SbZmzaiIkmf1hJq27UpBQrJmhd1VahhA49iJoCT1k/edit?usp=sharing)
 
-![](https://cdn-images-1.medium.com/max/800/1*wbElysDqE7oqwJZlm47dvQ.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*wbElysDqE7oqwJZlm47dvQ.png)
 
 ### Image Detection
 
@@ -43,7 +41,7 @@ We found the [DeepFashion Project](https://liuziwei7.github.io/projects/DeepFash
 
 DeepFashion was great for kickstarting us, but also for the [dataset](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) it provides. It had tagged data for all kinds of clothing features as shown below.
 
-![](https://cdn-images-1.medium.com/max/800/0*DkyuFZrKj4CgmLzl.jpg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/0*DkyuFZrKj4CgmLzl.jpg)
 
 Unfortunately, the tags for texture, fabric, shape, part and style were completely inaccurate and we could not use them in our solution. We made do with just category and continued with the project as a proof of concept.
 
@@ -67,7 +65,7 @@ The objective of the data science portion of the project is to combine outfits f
 
 Through the list of all the possible clothing item categories in the DeepFashion dataset, we built 3 category trees in order to deduce similarity among items: Tops, Bottoms and Full-Body.
 
-![](https://cdn-images-1.medium.com/max/800/1*xV3tu3251zPOZSr0_q0jzg.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*xV3tu3251zPOZSr0_q0jzg.png)
 
 Items in different trees have 0% similarity, items in different sections of the graph are 25% similar, items within the same section are 50% similar and items of the same category have 100% similarity.
 
@@ -90,9 +88,9 @@ The Stylist Assistant mobile app is used by both stylists and clients, meaning a
 
 Design patterns (visual layouts of the app views) were given less detailed thought, although some minor patterns which were more intuitive were implemented, such as tabs in the client side rather than a side menu. This follows the general design rule that discards the idea of keeping main features hidden in a side-menu navigation. The stylist side does feature a side-menu, but it is a much more acceptable design pattern for switching between clients. Similarly, the display of side-by-side cards was chosen over other list options for showing the wardrobe and recommended outfits of the client.
 
-![](https://cdn-images-1.medium.com/max/400/0*djuOs4oNY9MJRgBT)
-![](https://cdn-images-1.medium.com/max/400/0*mly3daHo0l2Lb1jX)
-![](https://cdn-images-1.medium.com/max/400/0*NHoqSqItIBWuqQbh)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/0*djuOs4oNY9MJRgBT)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/0*mly3daHo0l2Lb1jX)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/0*NHoqSqItIBWuqQbh)
 
 > Left to Right: Home screen, Client’s recommended outfits, Stylist’s client details
 
@@ -110,8 +108,8 @@ We chose Ionic Framework for our app because it’s fast and reliable with simpl
 
 We worked incrementally like this for the rest of the app as well, first adding functionality, then styling it and fixing bugs.
 
-![](https://cdn-images-1.medium.com/max/400/0*LlK-kfS_7MU-mu_X)
-![](https://cdn-images-1.medium.com/max/400/0*91yXBox7Oj-F21AI)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/0*LlK-kfS_7MU-mu_X)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/0*91yXBox7Oj-F21AI)
 ![Left to Right: Home screen, Client’s recommended outfits, Stylist’s client details](https://cdn-images-1.medium.com/max/400/0*OG0DA3QKeXMPxC3N)
 
 > Left to Right: Home screen, Client’s recommended outfits, Stylist’s client details

@@ -8,8 +8,6 @@ oldslugthing: /2020-06-11_negotiating-my-salary
 cover: /post-images/leavesgif.gif
 ---
 
-> I got a new job and negotiated my salary. I've always been interested in how to do this and wanted to share my experience.
-
 ## My Negotiating Beliefs
 
 Several times during this process I thought to myself that there isn't a winner or loser to this negotiation, there's only mutual understanding. If the company and I can find mutual understanding of my value, then we're both winners. This was not the situation to let my ego dictate my value, I never kept a specific salary number and I think that benefitted me throughout the negotiation.

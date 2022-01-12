@@ -8,8 +8,6 @@ oldslugthing: /my-superpowers-update-2020
 cover: '/post-images/arjun2020.jpg'
 ---
 
-> Writing a lot of cover letters so I had to put it in a blog.
-
 Lately I've been calling myself a UX Developer - UX because I focus on how users interact, access, and operate with a product, Developer because I code it into reality. It fits with the type of job I'm looking for, one where I work amongst team and my role is to build pixel-perfect components that fit and work together to make the product beautiful to use.
 
 It helps that I have both design and development experience to call myself this. I began studying UX after getting feedback on the usability of [my project](http://connectfour275.herokuapp.com/), which led to learning a completely new way of thinking via design iterations. On the development side I graduated from Computer Engineering and have taught myself Web. My last job was to build an Angular MVP for an early stage startup and I licked my chops creating production-quality user interaction components, such as [swipe-to-confirm](https://www.arjunkalburgi.com/writing/creating-a-swipe-to-confirm-component/) and [custom number input](https://www.arjunkalburgi.com/writing/custom-input-behaviour-for-numbers/).

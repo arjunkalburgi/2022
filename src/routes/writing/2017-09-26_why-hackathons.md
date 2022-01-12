@@ -2,15 +2,13 @@
 title: Why hackathons?
 description: >-
   In this trimester, I’m preparing to go to 5 hackathons. Including organizing
-  one, that’s 6 hackathons I’m involved with in a 4 month…
+  one, that’s 6 hackathons I’m involved with in a 4 month. Why?!
 date: '2017-09-26'
 categories: []
 keywords: []
 published: true
 oldslugthing: /why-hackathons-f2709735ae3
 ---
-
-> In this trimester, I’m preparing to go to 5 hackathons. Including organizing [one](http://hackedbeta.compeclub.com), that’s 6 hackathons I’m involved with in a 4 month period. Why?!
 
 Back when I first started my degree, I told myself the two most important things for me to do are to learn as much as I can and to build technology that enabled people.
 

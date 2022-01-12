@@ -14,4 +14,4 @@ New content will be published every late-December and late-April and will discus
 
 Keep coming back to read about what I learn and how I apply it!
 
-![](https://cdn-images-1.medium.com/max/1200/1*kfzUHjcSjaPdR7hrGHNvJA.jpeg)
+![large green space on a beautiful day with my bright red shoes pointing out](https://cdn-images-1.medium.com/max/1200/1*kfzUHjcSjaPdR7hrGHNvJA.jpeg)

@@ -8,8 +8,6 @@ oldslugthing: /custom-input-behaviour-for-numbers
 cover: '/post-images/2019-09-25_custom-number-input/numberinput.gif'
 ---
 
-> After accomplishing this twice now on two different occasions, I want to note it down for future reference. I think this is pretty core functionality for number inputs.
-
 When you type into a currency field, the field should adapt and reflect your text input. The experience is much cleaner if you're only ever typing numbers.
 
 Thus this:

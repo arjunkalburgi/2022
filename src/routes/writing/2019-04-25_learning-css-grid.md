@@ -11,8 +11,6 @@ oldslugthing: /learning-css-grid-for-my-portfolio-7140f80ca936
 cover: https://cdn-images-1.medium.com/max/400/1*ErpqfbqYAI0nxy1UXajRcQ.png
 ---
 
-> Been seeing a lot about CSS Grid on Twitter, decided to fix some smelly HTML/CSS on my portfolio using it!
-
 It seems like I’ve settled into a learning process. As with [learning Vue.js](https://medium.com/arjunkalburgi/viewing-vue-with-theradlist-8851502ab709) and [learning sketch-noting](https://medium.com/arjunkalburgi/arty-notes-sketch-noting-my-thoughts-e29f142a9eb4), I started with content.
 
 In this case it was this [article](https://css-tricks.com/snippets/css/complete-guide-grid/) on CSS Tricks, it went over the basics of CSS Grid and how to use it.
@@ -50,8 +48,8 @@ And just like that. We have our completely old website with a brand new grid lay
 
 [This is the commit](https://github.com/askalburgi/askalburgi.github.io/commit/00260e1192b41bc0e772f8c899e5ce8bae3d4ef2) where I make the move to the Grid System. In the HTML, I’m able to reduce 40 lines of code and in the CSS, I’m able to reduce ~11 lines.
 
-![](https://cdn-images-1.medium.com/max/400/1*ErpqfbqYAI0nxy1UXajRcQ.png)
-![](https://cdn-images-1.medium.com/max/400/1*3g_xFvG3AO3u9fvzr7PGGQ.png)
-![](https://cdn-images-1.medium.com/max/400/1*tT72BY7voH4t1u4L1uOIww.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*ErpqfbqYAI0nxy1UXajRcQ.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*3g_xFvG3AO3u9fvzr7PGGQ.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*tT72BY7voH4t1u4L1uOIww.png)
 
 Especially in the HTML, I was able to reduce a lot. Honestly it speaks more to the terrible HTML I had before than to how great the Grid System is, but either way, I was able to fix the issue that I had!

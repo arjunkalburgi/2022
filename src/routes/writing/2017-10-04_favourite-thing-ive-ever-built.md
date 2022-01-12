@@ -9,9 +9,7 @@ oldslugthing: /favourite-thing-ive-ever-built-bde117c634e2
 cover: https://cdn-images-1.medium.com/max/800/1*3_pVQ9n_GCOr21L_hhVuJQ.png
 ---
 
-> Question prompted by Granify job application
-
-![](https://cdn-images-1.medium.com/max/800/1*3_pVQ9n_GCOr21L_hhVuJQ.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*3_pVQ9n_GCOr21L_hhVuJQ.png)
 
 How can I not say ShoutBox? It’s my first ever hackathon project.
 
@@ -29,4 +27,4 @@ Harry (teamed up with me for the hackathon) and I built a Chrome extension that 
 
 Harry and I won third place, but more importantly it gave me the drive to use my powers for more than just being a code monkey. For the rest of my life, I want to solve problems that assist and improve lives — all thanks to ShoutBox.
 
-![](https://cdn-images-1.medium.com/max/800/0*l7XLh6RV-kFx7bsA.)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/0*l7XLh6RV-kFx7bsA.)

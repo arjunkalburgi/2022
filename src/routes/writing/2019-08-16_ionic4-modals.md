@@ -6,8 +6,6 @@ description: >-
 date: '2019-08-16'
 ---
 
-> After taking much too long to figure this out myself, I’m writing a blog post about it to help the next dev.
-
 This should be easy, but the documentation for it is a little lacking. I’ve [asked](https://github.com/ionic-team/ionic/pull/17944#issuecomment-522067671) them to update it but just in case they don’t I’m writing this for your sanity.
 
 ### Issue

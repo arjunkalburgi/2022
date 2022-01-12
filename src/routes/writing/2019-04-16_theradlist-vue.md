@@ -2,7 +2,7 @@
 title: Viewing Vue with TheRadList
 description: >-
   Learning Vue.js by updating one of my more simpler projects, TheRadList, the
-  Edmonton restaurant webapp that restores the excitement of…
+  Edmonton restaurant webapp that restores the excitement of finding a place to grub.
 date: '2019-04-16'
 categories: []
 keywords: []
@@ -10,9 +10,7 @@ published: true
 oldslugthing: /viewing-vue-with-theradlist-8851502ab709
 ---
 
-> Learning Vue.js by updating one of my more simpler projects, TheRadList, the Edmonton restaurant webapp that restores the excitement of finding a place to grub.
-
-![](https://cdn-images-1.medium.com/max/800/0*Whk_KRBeoqPW-cYg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/0*Whk_KRBeoqPW-cYg)
 
 ### Objective
 
@@ -38,7 +36,7 @@ I didn’t bother with the sample app, because TheRadList is my sample app.
 
 After picking up all the core concepts and functionality of Vue.js, I looked at TheRadList’s HTML to see how I could refactor and update it with Vue.js.
 
-![](https://cdn-images-1.medium.com/max/800/0*SVkBXGeYCdj6H6fw)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/0*SVkBXGeYCdj6H6fw)
 
 I know that the App Component needs to get [emitted messages](https://vuejs.org/v2/guide/components.html#Emitting-a-Value-With-an-Event) from the Filter Component, which will then update the List Component via [props](https://vuejs.org/v2/guide/components-props.html#One-Way-Data-Flow).
 
@@ -67,7 +65,7 @@ It’s possible more components might be helpful, especially the for UI. For exa
 
 Inner-component structure is another way to improve your app. I updated how the filter-props (props that control the list filters) were passed into the List Component, yielding a much more readable approach that’s also good for performance. (the `watch` function is slow)
 
-![](https://cdn-images-1.medium.com/max/600/1*j5_TYqnW1RSfIW9R_7WiWw.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/600/1*j5_TYqnW1RSfIW9R_7WiWw.png)
 ![Updating List Component to take in 1 prop for all the filters](https://cdn-images-1.medium.com/max/600/1*WDLgd9EwIyG0jQELpGQV5Q.png)
 
 > Updating List Component to take in 1 prop for all the filters
@@ -98,7 +96,7 @@ Something I’d love to get to are [Vue’s Single File Components](https://vuej
 
 For a simple app like TheRadList, I didn’t see a point in adding this functionality, so instead I separated out my components into files. It helps with readability abstraction but isn’t nearly as beneficial as Single File Components themselves.
 
-![](https://cdn-images-1.medium.com/max/1200/0*9mbSlucUkIF34qBA)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/1200/0*9mbSlucUkIF34qBA)
 
 ### Results
 

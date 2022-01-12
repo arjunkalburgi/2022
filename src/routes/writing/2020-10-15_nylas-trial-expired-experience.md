@@ -7,8 +7,6 @@ published: true
 oldslugthing: /2020-10-15_nylas-trial-expired-experience
 ---
 
-> Last week I launched a new experience for Nylas users who've had their trial expire. This blog outlines those changes and how I went about making them.
-
 ## Intro
 
 Hello hello! It's now been four months since I joined the frontend team at Nylas, Team Wonka 🎩, time flies! In that time we re-built and launched the new [Nylas Dashboard](https://dashboard.nylas.com) and are now expanding on it's functionality by improving edge-case experiences.

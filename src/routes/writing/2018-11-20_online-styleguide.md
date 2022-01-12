@@ -21,7 +21,7 @@ Over the last month, I’ve been pleasantly surprised at just how awesome this h
 
 I’ve just used my style guide to quickly give a theme to my CodePen profile after finding out that one can do that:
 
-![](https://cdn-images-1.medium.com/max/800/1*pRv5-0gsHVyFSK7unTIe6Q.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*pRv5-0gsHVyFSK7unTIe6Q.png)
 
 I did it quite hastily, but I’m impressed with myself how painless and quick it was to do this.
 

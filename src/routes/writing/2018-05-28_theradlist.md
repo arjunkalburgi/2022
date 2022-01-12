@@ -8,15 +8,13 @@ published: true
 oldslugthing: /theradlist-a-new-side-product-e07bf0d3fdd8
 ---
 
-> What can I say, I just love food…
-
 #### The Beginning
 
 Some time over the last 8 months, I realized Edmonton has a lot to offer in terms of restaurants. After a few interesting spots were introduced to me I decided to try not to attend a restaurant twice, in order to help encourage me to try new places instead of settling for the same ones over and over.
 
 This was all put into high gear after a friend introduced me to her list, which I’d jokingly call _the rad list_. After sharing this long (80 places!) list with a few people I started getting really annoyed at all the scrolling and Googling I had to do. So I decided to build a website out of it.
 
-![](https://cdn-images-1.medium.com/max/800/1*3A1c7OFEVCFWX-nwayHYdQ.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*3A1c7OFEVCFWX-nwayHYdQ.png)
 
 #### The Website
 
@@ -24,7 +22,7 @@ The original idea for the site would be a simple list of all the restaurants wit
 
 The true main goal of the site was to practice up on my design skills. Of all the websites I’ve built, I personally don’t think I’ve really pushed myself to build something with a first class design. I wanted to build something stunning and timeless.
 
-![](https://cdn-images-1.medium.com/max/800/1*qpA9S3RtIxE9IP9Iwa-mBQ.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*qpA9S3RtIxE9IP9Iwa-mBQ.png)
 
 #### The Product
 

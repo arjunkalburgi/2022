@@ -20,7 +20,7 @@ I assumed that BEM was hierarchical, just like how we usually name variables and
 
 This led me to produce HTML like this:
 
-![](https://cdn-images-1.medium.com/max/800/1*X7MIYOSLNPx05ZZ04UxDUA.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*X7MIYOSLNPx05ZZ04UxDUA.jpeg)
 
 `st` is my Block, `-tasks__(something)` are the Elements and `--stress` and `--fine` the Modifiers of certain elements.
 
@@ -32,7 +32,7 @@ The lesson I learned is that Element names don’t come from their position in t
 
 I now have it like this:
 
-![](https://cdn-images-1.medium.com/max/800/1*BqMc2OG08PhJ68VEnYWxJw.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*BqMc2OG08PhJ68VEnYWxJw.png)
 
 Where elements don’t depend on their position but rather their function and design/look/style.
 

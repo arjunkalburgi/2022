@@ -9,7 +9,7 @@ oldslugthing: /conversations-with-wikipedia-research-paper
 cover: 'https://cdn-images-1.medium.com/max/800/0*P4re_2qMolHcE0up.png'
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*P4re_2qMolHcE0up.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/0*P4re_2qMolHcE0up.png)
 
 **Abstract.** Asking a peer to explain a concept is a simple example of learner-initiated conversation and an effective learning technique, but it is difficult to automate for many different users and topics. Research on conversational agents generally keeps to conversations of a more specific domain. In this paper, a learner-initiated conversational agent is introduced; it can converse with many users (one at a time) and is capable of discussing many topics. This poster presents this agent’s development with a specific focus on using conversational practices to help support informal learning experiences. The agent uses Wikipedia as a first step in the development of a flexible and mobile conversation-based learning experience.
 

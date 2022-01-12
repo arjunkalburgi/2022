@@ -16,8 +16,8 @@ I started with this YouTube playlist about sketch notes. They go over ideas of h
 
 Honestly I think there is probably better content out there to learn this, but Mike Rhode is the author of the Sketchnote Handbook so I watched his videos first. I started getting the concepts and applying them to my notes!
 
-![](https://cdn-images-1.medium.com/max/800/0*5eiLBfngln98WE4C)
-![](https://cdn-images-1.medium.com/max/800/0*P45jNEcpZ88jT_6D)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/0*5eiLBfngln98WE4C)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/0*P45jNEcpZ88jT_6D)
 
 Some are more art than others, while some have been more notes than art.
 

@@ -12,7 +12,7 @@ cover: https://cdn-images-1.medium.com/max/800/0*pBG7K09M2bK_3ZtC
 Recently I went surfing for the first time ever   
 (in India no less ➡ [about my trip](https://medium.com/arjunkalburgi/what-i-did-in-india-for-3-weeks-in-2019-f0aa9671c021)). It was awesome.
 
-![](https://cdn-images-1.medium.com/max/800/0*uvXFHkNWEbWeJ5Mp)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/0*uvXFHkNWEbWeJ5Mp)
 
 I signed up for the 8am beginners class and made my way to the beach. What followed was a phenomenal practice in Growth Mindset.
 
@@ -44,6 +44,6 @@ Even though I kept failing, it wasn’t frustrating at all. I kept thinking abou
 
 And most importantly, I had so much fun. 100% would do it all over again.
 
-![](https://cdn-images-1.medium.com/max/800/0*pBG7K09M2bK_3ZtC)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/0*pBG7K09M2bK_3ZtC)
 
 Also interesting, everyone at the beach (in Chennai, India) called each other “bro” 😂 I guess surfing culture is universal?

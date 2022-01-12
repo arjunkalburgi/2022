@@ -10,19 +10,17 @@ published: true
 oldslugthing: /stressful-tasks-a-behavioural-design-experiment
 ---
 
-> Stress overwhelms people, but why? Prioritizing tasks and activities requires one simple trick, understanding that you can only give 100%.
-
 ### Objective:
 
 While taking a UI Design course at RED Academy in Toronto, I stayed with my grandma for 4 months. She was pretty busy over that time with an assortment of events and activities that required planning and prep work, all of which stressed her out beyond belief.
 
 I realized that I took my own stress management skills, built up over 5 years of my engineering degree, for granted. Some people just can’t help getting stressed under the pressure of a todo list, my grandma was proof.
 
-![](https://cdn-images-1.medium.com/max/800/1*TR8YgL7Xt5zFyM034CKZzg.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*TR8YgL7Xt5zFyM034CKZzg.jpeg)
 
 I reasoned that part of her stress came from not keeping a proper physical list, but also from being unable to recognize what tasks required more time and energy relative to others. This would lead her to become overwhelmed by the workload she had in front of her. If she could understand that she is only capable of 100%, whether that be 100% of the time in a day or 100% of her energy, she would have a much better time focusing on what matters as opposed to stressing out.
 
-![](https://cdn-images-1.medium.com/max/800/1*g-6EkJmhC-H2WJVeC9OrUg.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*g-6EkJmhC-H2WJVeC9OrUg.jpeg)
 
 #### The objective of “Stressful Tasks”
 
@@ -34,19 +32,19 @@ I reasoned that part of her stress came from not keeping a proper physical list,
 
 In order to achieve the calming effect of the app, I wanted to go with a calming design language.
 
-![](https://cdn-images-1.medium.com/max/800/1*ewdZXWq7tHNQynz-hulCew.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*ewdZXWq7tHNQynz-hulCew.jpeg)
 
 #### Style Guide:
 
 This design language uses pastel colours and features white space, both help to bring a tranquil experience. The doughnut chart is the center of the app’s design language, a unique visual that easily communicates task priorities to the user.
 
-![](https://cdn-images-1.medium.com/max/800/1*HLPtwpGkTAvblxrnTKSqSg.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*HLPtwpGkTAvblxrnTKSqSg.jpeg)
 
 #### Interface:
 
 Thanks to the strong pull of the doughnut chart, the design of the app can be very simple and stripped down. In only one screen, I feature the list of tasks and the doughnut chart. This should be sufficient to achieve the desired objective.
 
-![](https://cdn-images-1.medium.com/max/800/1*W9_dwvpHAeVHacgohhUOvQ.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*W9_dwvpHAeVHacgohhUOvQ.jpeg)
 
 > [View the design file (created with Figma) here](https://www.figma.com/file/rEbSMEIx2kXpe6w0MZYqpH/Stressful-Tasks)
 
@@ -70,7 +68,7 @@ I specifically wanted the doughnut chart to be animated. I want to start animati
 
 Once I finished the app I immediately began showing it to friends and using it myself. The little experiment sparked much discussion, both on its visual and behavioural design.
 
-![](https://cdn-images-1.medium.com/max/800/1*82moRFoyndgveERyMS_9Dg.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*82moRFoyndgveERyMS_9Dg.jpeg)
 
 #### Visual Representation
 

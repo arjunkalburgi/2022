@@ -36,4 +36,4 @@ I’m that same kid from 2014, I’m not sure I could answer the same questions 
 Being on the other side, being a mentor, is a new challenge.
 
 ![Let’s see. Lol.]()
-Let’s see. Lol.![](https://cdn-images-1.medium.com/max/800/1*k3x4eNfGaG54H9skwyKeSA.png)
+Let’s see. Lol.![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*k3x4eNfGaG54H9skwyKeSA.png)

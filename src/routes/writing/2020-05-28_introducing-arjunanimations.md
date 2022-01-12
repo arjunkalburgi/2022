@@ -8,8 +8,6 @@ oldslugthing: /introducing-arjunanimations
 cover: /post-images/leavesgif.gif
 ---
 
-> I've started a new project, a suite of JS and CSS animations called ArjunAnimations.
-
 I feel like a lot of things happen just because my cousin yells at me to do it.
 
 ## Ideation

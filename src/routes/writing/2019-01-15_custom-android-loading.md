@@ -2,7 +2,7 @@
 title: "Creating a Custom Loading Spinner for Android \U0001F916"
 description: >-
   Recently at Krugo, I was asking to implement a custom loading animation. I
-  don’t usually write about work things, but this one was…
+  don’t usually write about work things, but this one was different
 date: '2019-01-15'
 categories: []
 keywords: []
@@ -10,8 +10,6 @@ published: true
 oldslugthing: /creating-a-custom-loading-spinner-for-android
 cover: 'https://cdn-images-1.medium.com/max/800/1*TOT7NQcg-4VcfbAynbk7vA.gif'
 ---
-
-> Recently at Krugo, I was implementing a custom loading animation. I don’t usually write about work things, but this one was different.
 
 #### First, the Setup
 
@@ -42,7 +40,7 @@ These together allow me to toggle the ProgressBar view (that was set up in activ
 
 Here’s the fun part. I used [Shape Shifter](https://shapeshifter.design/) to make the animation, this is what I made:
 
-![](https://cdn-images-1.medium.com/max/800/1*TOT7NQcg-4VcfbAynbk7vA.gif)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*TOT7NQcg-4VcfbAynbk7vA.gif)
 
 Shape Shifter allows you to export the animation as an `animated-vector` , made just for Android.
 

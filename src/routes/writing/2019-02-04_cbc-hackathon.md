@@ -12,27 +12,27 @@ oldslugthing: /personalizing-images-at-the-cbc-hackathon-31618c16a87f
 
 This weekend I teamed up with my friends Abid and Meg to participate in CBC Radio-Canada’s hackathon all about personalization.
 
-![](https://cdn-images-1.medium.com/max/800/0*vEvTmyn1_kOqvS7y)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/0*vEvTmyn1_kOqvS7y)
 
 Our team chose to personalize the content imagery that viewers can see across CBC’s website.
 
-![](https://cdn-images-1.medium.com/max/800/0*955m2ZY2NLo1di7W)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/0*955m2ZY2NLo1di7W)
 
 We created user’s personas using the articles they read previously to determine their interests:
 
-![](https://cdn-images-1.medium.com/max/800/1*6x929TDzB58FoyegYZAucQ.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*6x929TDzB58FoyegYZAucQ.png)
 
 And created metadata for the CBC content using Google’s NLP API to find topics from the content’s description:
 
-![](https://cdn-images-1.medium.com/max/800/1*Hq1EeGwy1U8H3sm45IHElA.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*Hq1EeGwy1U8H3sm45IHElA.png)
 
 To decide what to show the viewer, we match the two sets of keywords together and use it for our image lookup.
 
-![](https://cdn-images-1.medium.com/max/800/1*6sHiE4cDtbYQhVfvbOsJFQ.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*6sHiE4cDtbYQhVfvbOsJFQ.png)
 
 And thus, we have two different UI’s for the different users.
 
-![](https://cdn-images-1.medium.com/max/800/1*jsEg1rsb6MxWoWLO-nYHEA.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*jsEg1rsb6MxWoWLO-nYHEA.png)
 
 > [View the presentation slides](https://t.co/DxBXC6NC99)
 
@@ -77,7 +77,7 @@ In the end we did what we wanted, creating an entirely new experience for Radio 
 
 Tell me how it is via [Twitter](http://twitter.com/askalburgi) or [Instagram](http://instagram.com/askalburgi)!
 
-![](https://cdn-images-1.medium.com/max/800/1*RLTVE0wgjEfhsrXK8cZ4hw.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*RLTVE0wgjEfhsrXK8cZ4hw.png)
 
 ##### Bonus,
 

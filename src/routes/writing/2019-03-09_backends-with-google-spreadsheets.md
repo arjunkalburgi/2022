@@ -16,7 +16,7 @@ As most developers I’ve gone on a journey of how I can make websites faster an
 
 Say hello to [Sheety](https://sheety.co/), the shitty database API (as far as databases go) that’s also the best at being fast and easy.
 
-![](https://cdn-images-1.medium.com/max/800/1*ppV1HxVjysDSUgBcaL3HbQ.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*ppV1HxVjysDSUgBcaL3HbQ.png)
 
 Sheety was made by [Phillip Caudell](http://twitter.com/@phillipcaudell) “because he hates making backends” and honestly it’s the greatest thing ever for front end developers like me.
 
@@ -30,7 +30,7 @@ TheRadList with data from Sheety
 
 I’ve moved all the data from a JSON var in the JS of TheRadList (yes, that’s how far I went to avoid using a backend) to this Google Spreadsheet:
 
-![](https://cdn-images-1.medium.com/max/800/1*VkNJX7cwCfKx3h7QCqwwGQ.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*VkNJX7cwCfKx3h7QCqwwGQ.png)
 
 My friends have edit access to this spreadsheet and I made them a custom link to make it easier to find: [https://theradlist.com/data](https://theradlist.com/data)
 

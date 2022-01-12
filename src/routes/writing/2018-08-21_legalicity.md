@@ -11,13 +11,11 @@ oldslugthing: /designing-a-clear-brand-and-website-for-legalicity
 cover: https://cdn-images-1.medium.com/max/800/1*uOEQEOakmidEfcqsdYURgg.png
 ---
 
-> How do you create a brand for a legal tech client? What does a legal tech brand look like? What does it feel like?
-
 ### Objective:
 
 To create a new brand and website design for Legalicity, a Toronto based legal tech startup. A brand that reflects the personality of the company and suits both industries they operate in.
 
-![](https://cdn-images-1.medium.com/max/800/1*fjI8j13EJAzv4kg8OycFLA@2x.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*fjI8j13EJAzv4kg8OycFLA@2x.png)
 
 ### Legalicity:
 
@@ -31,7 +29,7 @@ Legalicity’s most obvious visual direction is clean and blue. This style is co
 
 It’s a simple solution except that it wouldn’t make the Legalicity website unique to Legalicity as a company, nor would it mirror the visual from the NLPatent website. Instead, look to why Legalicity needs a website.
 
-![](https://cdn-images-1.medium.com/max/800/1*hdo04o90psYMh-NvkhYqDg.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*hdo04o90psYMh-NvkhYqDg.png)
 
 Legalicity needs a website that communicates their competence in the industry and their originality as inventors. These can be brought about by using the visual elements of colour, shape, space and movement.
 
@@ -39,7 +37,7 @@ Legalicity needs a website that communicates their competence in the industry an
 
 I began to look up how blue can work with the orange of the NLPatent website. I also looked for strong shapes that resembled buildings (“city” is in the word Legalicity).
 
-![](https://cdn-images-1.medium.com/max/800/1*uOEQEOakmidEfcqsdYURgg.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*uOEQEOakmidEfcqsdYURgg.png)
 
 The mood board captures a fun energy but also a professionalism. It features sharp edges and sense of strong stability but also a lightheartedness in the colours.
 
@@ -49,8 +47,8 @@ I ended up falling in love with the chevron shape in the moodboard and used it t
 
 The style tile is a representation of the visual design of the art direction and the style guide shows the technical elements of the style. They feature different elements of the app, ranging from atomic elements (font, colour, icon) to molecular elements (buttons, visualizations).
 
-![](https://cdn-images-1.medium.com/max/800/1*x48s-1HsLoVU73ZD_CdAdQ.jpeg)
-![](https://cdn-images-1.medium.com/max/600/1*MQ6t_xOPU-E5uCS3kxmvgA.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*x48s-1HsLoVU73ZD_CdAdQ.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/600/1*MQ6t_xOPU-E5uCS3kxmvgA.jpeg)
 
 The designs show the visual direction decisions made during the inception phase. There is the chevron shape, bright colours and the clean design.
 
@@ -60,9 +58,9 @@ The best part of this design is how the angles and shapes mirror that of NLPaten
 
 Because my goal for this project was to do a lot more design iterations, I did a lot of design iterations:
 
-![](https://cdn-images-1.medium.com/max/1200/0*DHeWcvhskyIMECuu)
-![](https://cdn-images-1.medium.com/max/800/0*NVdCTBQfVYk-Dc6L)
-![](https://cdn-images-1.medium.com/max/400/0*yYa3Ku3AiT-HOEiv)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/1200/0*DHeWcvhskyIMECuu)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/0*NVdCTBQfVYk-Dc6L)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/0*yYa3Ku3AiT-HOEiv)
 
 I first did a design blitz on sticky notes, and went over them with my team. Those were used to build a number of “above the fold” designs. Which were then honed into 3 final full web designs. Those were showed to the client who chose the “blue chevron” design. Overall I loved my process of design iterations, it worked out so well. I had some difficulty maintaining the iterations through to the final design and polishing the design towards the end but otherwise I loved this process.
 

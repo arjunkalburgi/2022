@@ -10,9 +10,7 @@ published: true
 oldslugthing: /poem-about-home-84b4c640e485
 ---
 
-> I wrote this poem on the plane from Edmonton to Toronto in 2019. At the time I was upset about the concept of ‘Home’ and what it means.
-
-![](https://cdn-images-1.medium.com/max/800/0*3P3cs8-2V89x3DRn)
+![Picture of the poem below as I wrote it in my art book](https://cdn-images-1.medium.com/max/800/0*3P3cs8-2V89x3DRn)
 
 #### What is Home?
 

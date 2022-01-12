@@ -24,4 +24,4 @@ BTW, **everything** is design.
 
 So designing everything to feel awesome? Yeah, there’s a lot to learn.
 
-![](https://cdn-images-1.medium.com/max/800/1*k3x4eNfGaG54H9skwyKeSA.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*k3x4eNfGaG54H9skwyKeSA.png)

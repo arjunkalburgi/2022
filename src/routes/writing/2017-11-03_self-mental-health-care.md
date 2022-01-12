@@ -10,8 +10,6 @@ oldslugthing: /self-mental-health-care-59ca57332e22
 
 Self mental health care
 
-> Hey pretty boy, time to check in <3
-
 1.  Any insecurity in particular consistently coming to mind?
 2.  What did I do this week that made me feel happy/fulfilled/proud?
 3.  Tell me about what a value you want to do better with?

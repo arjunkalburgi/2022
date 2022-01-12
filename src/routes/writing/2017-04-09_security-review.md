@@ -42,20 +42,20 @@ These screenshots were taken with a Nexus 5 which does not have a finger print s
 
 ### Walk-through
 
-![](https://cdn-images-1.medium.com/max/400/1*99L4a3eWiUEZuQ76PF7ZXA.png)
-![](https://cdn-images-1.medium.com/max/400/1*vEMdJ5iuKWIqEkEQScT_RA.png)
-![](https://cdn-images-1.medium.com/max/400/1*lH3gL0RYVGJPf7ioRRJf4w.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*99L4a3eWiUEZuQ76PF7ZXA.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*vEMdJ5iuKWIqEkEQScT_RA.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*lH3gL0RYVGJPf7ioRRJf4w.png)
 
 The application opens to a onboarding panes of how the app can be used. I thought it was very interesting that the first screen of the app exclaims that you don’t have to sign in to check your balance. At this point, eyebrow raised, but as a user that really wants to use the app, I’ll continue on. I skipped screenshots of the middle panes but at this point I’m pretty excited to get started. Upon dismissing the onboarding panes the user is given a list of decisions, but curious to find out more about the app’s security I’ll go exploring first.
 
-![](https://cdn-images-1.medium.com/max/400/1*R_Rw9R_50lGxxIZcl0ZnWg.png)
-![](https://cdn-images-1.medium.com/max/400/1*TbDcij_uyPRoJ3O_1a5qjw.png)
-![](https://cdn-images-1.medium.com/max/400/1*6xxzd7tfP_uDl0o10asR9A.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*R_Rw9R_50lGxxIZcl0ZnWg.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*TbDcij_uyPRoJ3O_1a5qjw.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*6xxzd7tfP_uDl0o10asR9A.png)
 
 The button overlapping the image to the right of the screen, scrolls down to show the Account Preview where we’re prompted to sign in again (even though we were totally told we didn’t have to sign in earlier). Closing that, the hamburger menu in the top left opens to a list of features offered by the app. One of those (not shown) is “Privacy and Security”, this is what we’re looking for! It opens to a webview of RBC’s Privacy and Security webpage which has all the necessary information for what we’re looking for but hiding the information this way is not good security UX.
 
-![](https://cdn-images-1.medium.com/max/600/1*oRxcOo0gXj3wo5CAjavwJg.png)
-![](https://cdn-images-1.medium.com/max/600/1*K6vx0MLKFLzzoPq3SVR5vg.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/600/1*oRxcOo0gXj3wo5CAjavwJg.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/600/1*K6vx0MLKFLzzoPq3SVR5vg.png)
 
 Let’s go ahead and sign in now, where the app prompts a verification question! This is an example of opinionated design, users are not given options of which way they can provide verification, nor are given a choice of which verification question to answer. Assuming this question is randomly selected each sign in, this is good security UX. (That being said, I realize that security questions themselves aren’t very good at providing security, but it’s the UX that matters in this article.)
 
@@ -77,9 +77,9 @@ These screenshots were taken with an iPhone which does have a finger print senso
 
 ### Walk-through
 
-![](https://cdn-images-1.medium.com/max/400/1*7dRAcaqoBg2bJxfF7_KxoQ.jpeg)
-![](https://cdn-images-1.medium.com/max/400/1*kwr_ynuCJ_ByJfVLnaD9Og.jpeg)
-![](https://cdn-images-1.medium.com/max/400/1*JGLPfLUbKWyHUNBMCVOW_A.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*7dRAcaqoBg2bJxfF7_KxoQ.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*kwr_ynuCJ_ByJfVLnaD9Og.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*JGLPfLUbKWyHUNBMCVOW_A.jpeg)
 
 The application opens to this mess of a screen; seven buttons, 3 of them not able to convey their purpose, one toggle and only twenty-nine words to help you make your decision.
 
@@ -89,9 +89,9 @@ The middle “lock” icon takes users to Scotiabank’s [Mobile Banking Securit
 
 The rightmost “question mark” icon takes users to this help page, which also doesn’t belong in an onboarding flow.
 
-![](https://cdn-images-1.medium.com/max/400/1*72vLkc-IgIMl02MxNGgHmA.jpeg)
-![](https://cdn-images-1.medium.com/max/400/1*7dRAcaqoBg2bJxfF7_KxoQ.jpeg)
-![](https://cdn-images-1.medium.com/max/400/1*j32rdQPMC_hoKoepXxkTQw.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*72vLkc-IgIMl02MxNGgHmA.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*7dRAcaqoBg2bJxfF7_KxoQ.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*j32rdQPMC_hoKoepXxkTQw.jpeg)
 
 The “Quick Balance” button creates this alert to tell you more about the feature, but then does nothing on “Continue”, since it requires log in at least once before use. Why is it even here?!
 
@@ -117,22 +117,22 @@ These screenshots were taken with a iPhone 5 which does not have a finger print 
 
 ### Walk-through
 
-![](https://cdn-images-1.medium.com/max/600/1*y4L2fWseG-NxQPA4h9_Aog.jpeg)
-![](https://cdn-images-1.medium.com/max/600/1*O4av7iURlNJjNderFT32LA.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/600/1*y4L2fWseG-NxQPA4h9_Aog.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/600/1*O4av7iURlNJjNderFT32LA.jpeg)
 
 Upon opening the app, TD Canada first promotes their Quick Access feature. This critique goes for Scotiabank and RBC too, you can’t promote avoiding security as a feature.
 
 Here is an example of an in-flow permission prompt. This prompt is lacking some type of “pre prompt screen” like Scotiabank had and thus as a user we don’t really understand what “Branch Locator” and “TD for Me” do.
 
-![](https://cdn-images-1.medium.com/max/600/1*Hz8GyzJlyU2M0jFE879mdA.jpeg)
-![](https://cdn-images-1.medium.com/max/600/1*sn7277ZYK1UG4MVo4orEzg.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/600/1*Hz8GyzJlyU2M0jFE879mdA.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/600/1*sn7277ZYK1UG4MVo4orEzg.jpeg)
 
 As an excited but concerned user, am I happy to be thrown right in? I quickly scroll down to look for additional security information and find nothing.
 
 Most of the list items ask me to log in — it seems like the TD Canada app also doesn’t like onboarding, but instead of half-implementing it, the app avoids it completely.
 
-![](https://cdn-images-1.medium.com/max/600/1*yKR5gdcilmvUUt2eJoXzIg.jpeg)
-![](https://cdn-images-1.medium.com/max/600/1*AdzommAO7ed6pXYl97LeXQ.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/600/1*yKR5gdcilmvUUt2eJoXzIg.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/600/1*AdzommAO7ed6pXYl97LeXQ.jpeg)
 
 On sign in, we’re prompted for a security question! The copy here is great! We’re told that this provides additional security AND we have the option to learn more. Great security UX (same problem with verification questions in general though, I’m pretty confident we all can answer this question….).
 
@@ -154,22 +154,22 @@ These screenshots were taken with a Nexus 6P which has a finger print sensor, so
 
 ### Walk-through
 
-![](https://cdn-images-1.medium.com/max/400/1*TH3Wed-q3V28bOjAf4uaQA.png)
-![](https://cdn-images-1.medium.com/max/400/1*dUUdJ4BFe_JqMMNM5kom1Q.png)
-![](https://cdn-images-1.medium.com/max/400/1*VS2c32ehHbgkoHeNffHEpA.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*TH3Wed-q3V28bOjAf4uaQA.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*dUUdJ4BFe_JqMMNM5kom1Q.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*VS2c32ehHbgkoHeNffHEpA.png)
 
 Upon open, we’re prompted to open an account and similar to RBC, we’re shown what we can do with the app in panels. Skipping ahead, we’re prompted to sign on with more panels. The panels are decent for shoving information, but nothing here is about security.
 
 There’s also a hamburger menu icon and shield icon in the corners. In character again, we’ll check those out first. The hamburger menu has nothing of significance, Settings and Legal comes close but contains very little information that contributes to security ux.
 
-![](https://cdn-images-1.medium.com/max/600/1*SUb3CUWXaYNWsfN67xxorA.png)
-![](https://cdn-images-1.medium.com/max/600/1*2OV3Z7scL1SlmbJ5qUqXig.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/600/1*SUb3CUWXaYNWsfN67xxorA.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/600/1*2OV3Z7scL1SlmbJ5qUqXig.png)
 
 The shield however is exactly what we’re looking for as a user. This is what all four other apps lacked. As a user we’re “guaranteed” secure banking, how much better can you get? Clicking “Learn more” takes us to this disgusting page explaining the CIBC Online Security Guarantee. This page can use work, but as a user we’re satisfied.
 
-![](https://cdn-images-1.medium.com/max/400/1*gPq0esIm4iTeSnKtMQoT5Q.png)
-![](https://cdn-images-1.medium.com/max/400/1*OuA5byrfUqxvXZEMSEm9sQ.png)
-![](https://cdn-images-1.medium.com/max/400/1*54YfUrmUlokBiFs0n1NacQ.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*gPq0esIm4iTeSnKtMQoT5Q.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*OuA5byrfUqxvXZEMSEm9sQ.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/400/1*54YfUrmUlokBiFs0n1NacQ.png)
 
 Signing in doesn’t prompt a security question, but instead prompts a customization of the flow in the future. A picture and nickname provide personal touches, and the inclusion of the fingerprint sign in option is great! Fingerprints are widely accepted as a strong security feature and so using it here will make users feel very safe with keeping this app on their phone.
 
@@ -189,7 +189,7 @@ The app can also be more opinionated with their fingerprint feature. Force users
 
 ## A banking app with good security UX
 
-![](https://cdn-images-1.medium.com/max/1200/1*hdL2RduPmhsyu_twxd1e-g.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/1200/1*hdL2RduPmhsyu_twxd1e-g.jpeg)
 
 This is my proposal of what a good security UX onboarding would look like. The app starts with a long scrolling page (as opposed to the panels) to get users to check out features before they sign in. This prepares and hypes our users to use the app to the fullest.
 

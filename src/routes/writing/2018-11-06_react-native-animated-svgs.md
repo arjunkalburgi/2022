@@ -13,13 +13,13 @@ cover: https://cdn-images-1.medium.com/max/800/1*MvBfM58ir8Y4S17gJyBzzw.gif
 
 I’ve been looking into SVG animations for my project, [Slackify](https://medium.com/arjunkalburgi/redesigning-slackify-an-easy-custom-emoji-solution-for-slack-41c81b76e2be). I found that SVG offers a great [animate property](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/animate) and so I decided I’d animate a brand new logo for Slackify.
 
-![](https://cdn-images-1.medium.com/max/800/1*AtJwk7_cpzGFJI6nZkMsjg.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*AtJwk7_cpzGFJI6nZkMsjg.png)
 
 I planned out my animation and in Figma I created several SVG’s. `animate` only works if all the paths in your SVG have the same number of points.
 
 I ended up creating:
 
-![](https://cdn-images-1.medium.com/max/800/1*MvBfM58ir8Y4S17gJyBzzw.gif)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*MvBfM58ir8Y4S17gJyBzzw.gif)
 
 Not special but fun to try out. I also made this [codepen of the svg](https://codepen.io/askalburgi/pen/vQOJLE).
 
@@ -33,7 +33,7 @@ I also tried to load the SVG in a React-Native `WebView`, thinking maybe the Web
 
 So I’ve got:
 
-![](https://cdn-images-1.medium.com/max/800/1*bfzlPng2aLxqJDms2hS8zQ.jpeg)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*bfzlPng2aLxqJDms2hS8zQ.jpeg)
 
 🤷🏾‍ Oh well.
 

@@ -8,8 +8,8 @@ published: true
 oldslugthing: /read-my-lessons-watch-me-work-see-me-live-55d48d3a37fc
 ---
 
-![](https://cdn-images-1.medium.com/max/800/1*k3x4eNfGaG54H9skwyKeSA.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*k3x4eNfGaG54H9skwyKeSA.png)
 
 Most active here, Instagram and Youtube.
 
-![](https://cdn-images-1.medium.com/max/800/1*w5JI3ly6ivOGwIMFtQo6Hg.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*w5JI3ly6ivOGwIMFtQo6Hg.png)

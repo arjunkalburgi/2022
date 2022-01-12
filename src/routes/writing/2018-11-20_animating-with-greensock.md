@@ -12,7 +12,7 @@ Previously, I used SVG’s `animate` tag to animate a new Slackify logo I was wo
 
 Although I could have done the animation entirely in CSS, the purpose of this experiment was to see how I could animate using the multiple SVG’s I had created previously.
 
-![](https://cdn-images-1.medium.com/max/800/1*AtJwk7_cpzGFJI6nZkMsjg.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*AtJwk7_cpzGFJI6nZkMsjg.png)
 
 This is the same screenshot of my Figma design asset from before. There are 4 paths here that I want to animate to each other with an easing between them.
 
@@ -36,10 +36,10 @@ I went on to apply this same animation to the other 4 path elements.
 
 The final result:
 
-![](https://cdn-images-1.medium.com/max/800/1*GOG3jx9dVNpwbrq4TjvZAA.gif)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*GOG3jx9dVNpwbrq4TjvZAA.gif)
 
 I have a theory as to why there is that strange sharpness of the dots during the animation, but that’s for another blog!
 
-![](https://cdn-images-1.medium.com/max/800/1*cuvajqmhcC8_croNpCLZFg.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*cuvajqmhcC8_croNpCLZFg.png)
 
 Thank you! Please let me know if you have any suggestions!

@@ -11,8 +11,6 @@ oldslugthing: /getting-more-and-more-used-to-animations-aa7349c82ee2
 cover: https://cdn-images-1.medium.com/max/800/1*OXD9RfgmQzgVODT3_xj08A.gif
 ---
 
-> I’m finding myself say “I can just make that myself” more and more often when I’m taking inspiration and hacking websites together.
-
 Animations kept me away for some time because I always felt they were more complicated than I wanted to deal with. But recently that’s changing, mostly because I don’t want to deal with this:
 
 ![An excerpt from a 63 page JS file, size 12 font](https://cdn-images-1.medium.com/max/800/1*8fs1I6BtirDdLZiwoza_xw.png)
@@ -34,6 +32,6 @@ This one still needs some fine tuning, but I’m loving my newfound animation co
 
 Next I’m going to try recreating this gif in After Effects and using Lottie to get it into my Online Library project
 
-![](https://cdn-images-1.medium.com/max/800/1*OXD9RfgmQzgVODT3_xj08A.gif)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*OXD9RfgmQzgVODT3_xj08A.gif)
 
 Post to come about my Online Library soon, just got to get these animations done :)

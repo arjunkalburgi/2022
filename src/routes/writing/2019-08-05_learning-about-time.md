@@ -15,15 +15,15 @@ I’ve taken 3 weeks off before, I went to India for that long just 5 months ago
 
 This recent trip started in New York with a half-week with my cousins, where we walked all day and everywhere.
 
-![](https://cdn-images-1.medium.com/max/800/0*o_GXcdRRPC2oFaRa)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/0*o_GXcdRRPC2oFaRa)
 
 Then continued for a week with some more family, where we were such a big group we could only manage to visit one or two tourist attractions per day.
 
-![](https://cdn-images-1.medium.com/max/800/0*s17pide54h3pTX80)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/0*s17pide54h3pTX80)
 
 The trip continued further to LA, where even more family met up to take a week-long cruise down Mexico’s Pasific coast.
 
-![](https://cdn-images-1.medium.com/max/800/0*rJKeiFk6y25dKPhq)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/0*rJKeiFk6y25dKPhq)
 
 And because it was cheaper to fly out of LA a few days after the cruise docked, I stayed with my uncle in LA for 2 days.
 

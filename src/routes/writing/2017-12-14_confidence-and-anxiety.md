@@ -11,7 +11,7 @@ cover: "https://cdn-images-1.medium.com/max/800/1*zXlkJ7ilo1m7CEeuRPUcLw.png"
 
 I posted to Instagram a while back,
 
-![](https://cdn-images-1.medium.com/max/800/1*zXlkJ7ilo1m7CEeuRPUcLw.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*zXlkJ7ilo1m7CEeuRPUcLw.png)
 
 the caption: “Only [#scheming](https://www.instagram.com/explore/tags/scheming/) gives me anxiety, and boi I got plans 🚀”
 
@@ -23,6 +23,6 @@ Obviously, it would be better to stress out only about the things we can control
 
 Also, more pictures:
 
-![](https://cdn-images-1.medium.com/max/800/1*mx19kFTWUbwV8KBpMW4eEw.png)
-![](https://cdn-images-1.medium.com/max/800/1*lVJ5o6GwyjGTDNcNeANnJA.png)
-![](https://cdn-images-1.medium.com/max/800/1*3_pVQ9n_GCOr21L_hhVuJQ.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*mx19kFTWUbwV8KBpMW4eEw.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*lVJ5o6GwyjGTDNcNeANnJA.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*3_pVQ9n_GCOr21L_hhVuJQ.png)

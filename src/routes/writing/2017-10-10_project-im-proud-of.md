@@ -8,9 +8,7 @@ published: true
 oldslugthing: /project-im-most-proud-of-6c3dad1fbdb
 ---
 
-> Question prompted by Electric City Hacks application
-
-![](https://cdn-images-1.medium.com/max/800/1*k3x4eNfGaG54H9skwyKeSA.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*k3x4eNfGaG54H9skwyKeSA.png)
 
 _Why I am proud of it, the obstacles I had to overcome, learning points, where I see the project going in the future…_
 
@@ -31,4 +29,4 @@ There is a lot to be done on the knowledge graph backend and the usability/desig
 
 The scope of this project is truly enormous, and I doubt I’ll be able to turn it into a fully fledged product anytime soon. But I’m still immensely proud that I’m taking it on and learning as much as I can. I’m stunned at my own motivation to learn — which is proof that the second definition listed above deserves more attention paid towards it.
 
-![](https://cdn-images-1.medium.com/max/800/1*hpSCIKdywwbyzXzkwHq4uQ.png)
+![Arjun before 2020 didn't know how important alt's were. Sorry no alt text!](https://cdn-images-1.medium.com/max/800/1*hpSCIKdywwbyzXzkwHq4uQ.png)

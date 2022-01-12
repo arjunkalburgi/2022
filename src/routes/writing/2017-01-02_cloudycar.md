@@ -15,7 +15,7 @@ Cloudy Car is an Uber-like application that enables users to become drivers and 
 
 ### Walkthrough Part 1: Opening the app
 
-![](https://cdn-images-1.medium.com/max/600/1*LHrasX7joKQuMZarSWQnLg.png)
+![Cloudy Car signin and home page](https://cdn-images-1.medium.com/max/600/1*LHrasX7joKQuMZarSWQnLg.png)
 
 Upon first opening the app, users will be introduced to a signup screen where they will be asked to create a username as well as submit their phone number and email. The user is requested to provide both a phone number and email as a way for drivers/riders to easily contact each other later on in the application. Minimal information is asked for from the user as this in less intrusive to the user and also builds more trust. Arguably, email is not required in this step and can be made “optional” or even removed entirely.
 
@@ -27,7 +27,7 @@ Once signed up, the user is then guided to the home screen where they are given 
 
 ### Walkthrough Part 2: Beginning the Request
 
-![](https://cdn-images-1.medium.com/max/600/1*d1xWFbYTpc29sTQzfQ8xAg.png)
+![App's request pages](https://cdn-images-1.medium.com/max/600/1*d1xWFbYTpc29sTQzfQ8xAg.png)
 
 After picking which side of the application a user would like to utilize, they are refreshed to new screens based off of their choice.
 
@@ -39,7 +39,7 @@ After submitting this information, users are shown a summary of their request an
 
 ### Walkthrough Part 3: Accepting the Request
 
-![](https://cdn-images-1.medium.com/max/600/1*pI30aDBG34yHufTGJRXbWg.png)
+![App's driver pages](https://cdn-images-1.medium.com/max/600/1*pI30aDBG34yHufTGJRXbWg.png)
 
 After users create a request from the riders side of the application, the driver side of the application comes into play. The driver’s side of the application is set up in a similar manner to the riders side. Users on this side are a list of request forms that they have accepted in the past as well as pending request they can accept at any time they choose. This screen also has search buttons for drivers to look up more pending requests using different filters to eliminate request options.
 
@@ -49,7 +49,7 @@ After selecting a request, users are then redirected to a request details screen
 
 ### Walkthrough Part 4: Confirming the Request
 
-![](https://cdn-images-1.medium.com/max/600/1*JW4x3SMi8rWek6PfjPKcrw.png)
+![App's confirming pages](https://cdn-images-1.medium.com/max/600/1*JW4x3SMi8rWek6PfjPKcrw.png)
 
 For riders, accepted requests will now show up under the “Accepted” subheading on the main rider-side screen. Riders can navigate through the details page by clicking the request; this will show pickup and destination locations and the list of drivers who accepted the request. This gives riders an opportunity to view the different drivers’ profiles, to provide them with a larger sense of security. Once the riders confirm a driver, the driver is notified, and the request will be shown under the “Confirmed” subheading.
 

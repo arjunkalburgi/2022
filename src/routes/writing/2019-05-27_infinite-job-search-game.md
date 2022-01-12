@@ -10,8 +10,6 @@ published: true
 oldslugthing: /playing-the-infinite-job-search-game-4e4b4b406425
 ---
 
-> Recently I got an email expressing concern for finding a job, in my reply I explain what I call ‘The Infinite Job Search Game’.
-
 Recently I got an email expressing concern for finding a job. The sender is about to start a degree in Computer Science and was worried that Computer Engineering would have been the better choice for more job opportunities at the end of his degree.
 
 After debunking the difference between the two disciplines, my advice to him was to play the _infinite job search game_, the best way of finding a job. I first learned about [the infinite game from Simon Sinek](https://www.youtube.com/watch?v=0bFs6ZiynSU&t=516s), where he explains what the game is and how companies should play it.
