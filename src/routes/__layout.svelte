@@ -1,12 +1,8 @@
 <script>
-  import GridBg from '$lib/GridBg.svelte';
   import '../app.css';
-
-  var h;
 </script>
 
-<div class="container" bind:clientHeight={h}>
-  <GridBg height={h} />
+<div class="container">
   <main>
     <slot />
   </main>
