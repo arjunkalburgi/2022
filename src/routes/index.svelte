@@ -1,47 +1,35 @@
-<script context="module">
-  export const prerender = true;
-  /**
-   * @type {import('@sveltejs/kit').Load}
-   */
-  export async function load({ fetch }) {
-    // Use a `limit` querystring parameter to fetch a limited number of posts
-    // e.g. fetch('posts.json?limit=5') for 5 most recent posts
-    const posts = await fetch('/writing.json').then((res) => res.json());
-    return {
-      props: {
-        posts
-      }
-    };
-  }
-</script>
-
-<script>
-  export let posts;
-</script>
-
 <svelte:head>
   <title>Home</title>
 </svelte:head>
 
-<section>
-  <ul>
-    {#each posts as { slug, title, author, description, date }}
-      <li><a href="/writing/{slug}">{title}</a></li>
-    {/each}
-  </ul>
+<section class="hero">
+  <img alt="me with a big smile, welcoming you to my site" src="/sra.jpg" />
+  <div>
+    <h2>Hiya!</h2>
+    <p>
+      Welcome to my site, this is my lovely digital way to introduce myself. tysm for coming, please
+      scroll down
+    </p>
+  </div>
 </section>
 
-<style>
+<style lang="scss">
   section {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     flex: 1;
-  }
 
-  h1 {
-    width: 100%;
+    &.hero {
+      padding: 20vh 0;
+      display: grid;
+      grid-template-columns: 40% auto;
+
+      img {
+        width: 100%;
+      }
+    }
   }
 
   .welcome {

@@ -15,7 +15,7 @@
   </main>
 
   <footer>
-    <p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+    <p>hit me up at <a href="mailto:askalburgi@gmail.com">askalburgi@gmail.com</a> to chat</p>
   </footer>
 </div>
 
