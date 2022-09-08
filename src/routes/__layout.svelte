@@ -3,6 +3,13 @@
 </script>
 
 <div class="container">
+  <h1 class="logo">
+    <img
+      src="/Logo.svg"
+      alt="Arjun Kalburgi's logo - it's a leaf that lays on it's side, with a sharp leaf blade and a soft stem - symbolizing that he grows sharply but remains humble."
+    />
+  </h1>
+
   <main>
     <slot />
   </main>
@@ -12,8 +19,16 @@
   </footer>
 </div>
 
-<style>
-  /* how do i ensure everything stays on the grid? */
+<style lang="scss">
+  h1 {
+    position: absolute;
+    margin: 0;
+
+    img {
+      width: 10rem;
+    }
+  }
+
   main {
     flex: 1;
     display: flex;
