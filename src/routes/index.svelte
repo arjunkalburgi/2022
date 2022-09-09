@@ -4,7 +4,7 @@
 
   const animationData = {
     className: 'bg_animation_container',
-    numOfSprites: 6,
+    numOfSprites: 10,
     pathsOfSprites: ['/cloud/blue.PNG', '/cloud/purp.PNG'],
     noRotation: true,
     noSpin: true,
@@ -27,12 +27,12 @@
   </div>
 
   <div class="content">
-    <img alt="me with a big smile, welcoming you to my site" src="/sra.jpg" />
+    <img alt="me with a big smile, welcoming you to my site" src="/welcome.gif" />
     <div>
       <h2>Hiya!</h2>
       <p>
-        Welcome to my site, this is my lovely digital way to introduce myself. tysm for coming,
-        please scroll down
+        Welcome to my site, this is my lovely digital way to introduce myself. tysm for coming, this
+        site is still being worked on. Please come back soon!
       </p>
     </div>
   </div>
@@ -54,7 +54,7 @@
         position: absolute;
         width: 100%;
         height: 100%;
-        overflow-x: hidden;
+        overflow: hidden;
 
         display: flex;
         div {

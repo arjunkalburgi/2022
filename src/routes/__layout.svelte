@@ -5,7 +5,7 @@
 <div class="container">
   <h1 class="logo">
     <img
-      src="/Logo.svg"
+      src="/logo.svg"
       alt="Arjun Kalburgi's logo - it's a leaf that lays on it's side, with a sharp leaf blade and a soft stem - symbolizing that he grows sharply but remains humble."
     />
   </h1>

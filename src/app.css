@@ -47,14 +47,9 @@ a:hover {
   text-decoration: underline;
 }
 
-h1 {
-  font-size: 2rem;
-  text-align: center;
-  font: var(--font-display);
-}
-
 h2 {
-  font-size: 1rem;
+  font-size: 2rem;
+  font: var(--font-display);
 }
 
 input,
