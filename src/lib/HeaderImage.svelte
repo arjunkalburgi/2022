@@ -16,13 +16,18 @@
     width: 100%;
   }
   .oval {
-    width: 390px;
+    width: 75%;
     height: 180px;
     background: #a84909;
     border-radius: 100%;
     position: absolute;
-    left: 12%;
+    left: 15%;
     bottom: -80px;
     z-index: -1;
+
+    @media screen and (max-width: 40rem) {
+      height: 70px;
+      bottom: -20px;
+    }
   }
 </style>
