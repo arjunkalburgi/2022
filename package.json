@@ -25,6 +25,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@arjunanimations/leaves": "^0.3.2",
     "@fontsource/carter-one": "^4.5.0",
     "@fontsource/lato": "^4.5.0",
     "@lukeed/uuid": "^2.0.0",

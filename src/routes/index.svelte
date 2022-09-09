@@ -1,3 +1,18 @@
+<script>
+  import { onMount } from 'svelte';
+  import { animate } from '@arjunanimations/leaves';
+
+  const animationData = {
+    className: 'hero',
+    numOfSprites: 3,
+    pathsOfSprites: ['/favicon.png']
+  };
+
+  onMount(() => {
+    animate(animationData);
+  });
+</script>
+
 <svelte:head>
   <title>Home</title>
 </svelte:head>
