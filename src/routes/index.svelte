@@ -3,9 +3,13 @@
   import { animate } from '@arjunanimations/leaves';
 
   const animationData = {
-    className: 'hero',
-    numOfSprites: 3,
-    pathsOfSprites: ['/favicon.png']
+    className: 'bg_animation_container',
+    numOfSprites: 6,
+    pathsOfSprites: ['/cloud/blue.PNG', '/cloud/purp.PNG'],
+    noRotation: true,
+    noSpin: true,
+    width: 500,
+    height: 500
   };
 
   onMount(() => {
@@ -18,13 +22,19 @@
 </svelte:head>
 
 <section class="hero">
-  <img alt="me with a big smile, welcoming you to my site" src="/sra.jpg" />
-  <div>
-    <h2>Hiya!</h2>
-    <p>
-      Welcome to my site, this is my lovely digital way to introduce myself. tysm for coming, please
-      scroll down
-    </p>
+  <div class="bg_animation_container">
+    <div />
+  </div>
+
+  <div class="content">
+    <img alt="me with a big smile, welcoming you to my site" src="/sra.jpg" />
+    <div>
+      <h2>Hiya!</h2>
+      <p>
+        Welcome to my site, this is my lovely digital way to introduce myself. tysm for coming,
+        please scroll down
+      </p>
+    </div>
   </div>
 </section>
 
@@ -38,27 +48,34 @@
 
     &.hero {
       padding: 20vh 0;
-      display: grid;
-      grid-template-columns: 40% auto;
+      position: relative;
 
-      img {
+      .bg_animation_container {
+        position: absolute;
         width: 100%;
+        height: 100%;
+        overflow-x: hidden;
+
+        display: flex;
+        div {
+          height: 100px;
+          width: 100%;
+          margin-top: auto;
+          background-image: linear-gradient(#fff0, white);
+        }
+      }
+
+      .content {
+        display: grid;
+        grid-template-columns: 40% auto;
+        padding: 0 10vw;
+        grid-gap: 5vw;
+        align-items: center;
+
+        img {
+          width: 100%;
+        }
       }
     }
-  }
-
-  .welcome {
-    position: relative;
-    width: 100%;
-    height: 0;
-    padding: 0 0 calc(100% * 495 / 2048) 0;
-  }
-
-  .welcome img {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    display: block;
   }
 </style>

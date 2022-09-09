@@ -1,8 +1,10 @@
 @import '@fontsource/lato';
 @import '@fontsource/carter-one';
 
-html, body {
+html,
+body {
   font-size: 1.125rem;
+  margin: 0;
 }
 
 :root {
