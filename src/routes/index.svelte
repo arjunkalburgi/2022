@@ -1,6 +1,7 @@
 <script>
   import { onMount } from 'svelte';
   import { animate } from '@arjunanimations/leaves';
+  import HeaderImage from '$lib/HeaderImage.svelte';
 
   const animationData = {
     className: 'bg_animation_container',
@@ -27,7 +28,9 @@
   </div>
 
   <div class="content">
-    <img alt="me with a big smile, welcoming you to my site" src="/welcome.gif" />
+    <div class="img_container">
+      <HeaderImage alt="me with a big smile, welcoming you to my site" src="/welcome.gif" />
+    </div>
     <div>
       <h2>Hiya!</h2>
       <p>Welcome to my site, this is my lovely digital way to introduce myself. tysm for coming!</p>
@@ -71,7 +74,7 @@
         grid-gap: 5vw;
         align-items: center;
 
-        img {
+        .img_container {
           width: 100%;
         }
       }
@@ -90,7 +93,7 @@
           flex-direction: column;
           align-items: flex-start;
 
-          img {
+          .img_container {
             width: 70%;
           }
         }
