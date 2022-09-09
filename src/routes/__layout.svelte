@@ -23,6 +23,7 @@
   h1 {
     position: absolute;
     margin: 0;
+    margin-left: 1rem;
 
     img {
       width: 10rem;

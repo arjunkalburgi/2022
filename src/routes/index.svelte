@@ -8,8 +8,8 @@
     pathsOfSprites: ['/cloud/blue.PNG', '/cloud/purp.PNG'],
     noRotation: true,
     noSpin: true,
-    width: 500,
-    height: 500
+    width: 800,
+    height: 800
   };
 
   onMount(() => {
@@ -30,10 +30,8 @@
     <img alt="me with a big smile, welcoming you to my site" src="/welcome.gif" />
     <div>
       <h2>Hiya!</h2>
-      <p>
-        Welcome to my site, this is my lovely digital way to introduce myself. tysm for coming, this
-        site is still being worked on. Please come back soon!
-      </p>
+      <p>Welcome to my site, this is my lovely digital way to introduce myself. tysm for coming!</p>
+      <p>This site is still being worked on, please come back soon</p>
     </div>
   </div>
 </section>
@@ -55,6 +53,7 @@
         width: 100%;
         height: 100%;
         overflow: hidden;
+        z-index: -1;
 
         display: flex;
         div {
@@ -74,6 +73,26 @@
 
         img {
           width: 100%;
+        }
+      }
+    }
+
+    @media screen and (max-width: 40rem) {
+      &.hero {
+        padding: 10vh 0;
+
+        .bg_animation_container {
+          height: 60%;
+          top: 0;
+        }
+        .content {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+
+          img {
+            width: 70%;
+          }
         }
       }
     }
