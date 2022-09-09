@@ -29,16 +29,6 @@
     }
   }
 
-  main {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    max-width: 1050px;
-    margin: 0 auto;
-    box-sizing: border-box;
-  }
-
   footer {
     display: flex;
     flex-direction: column;
