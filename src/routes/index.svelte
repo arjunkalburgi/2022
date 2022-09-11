@@ -32,9 +32,17 @@
       <HeaderImage alt="me with a big smile, welcoming you to my site" src="/welcome.gif" />
     </div>
     <div>
+      <p>⚠️ work being done, please come back soon</p>
       <h2>Hiya!</h2>
-      <p>Welcome to my site, this is my lovely digital way to introduce myself. tysm for coming!</p>
-      <p>This site is still being worked on, please come back soon</p>
+      <p>Welcome to my site, tysm for coming 🙏🏾</p>
+      <p>
+        I believe everything is better together, so let's hang out! We can share coffee on a video
+        call, host a movie night together, or even build the company of our dreams.
+      </p>
+      <p>
+        hit me up at <a href="mailto:askalburgi@gmail.com">askalburgi@gmail.com</a> - let's make things
+        happen
+      </p>
     </div>
   </div>
 </section>
@@ -63,7 +71,7 @@
           height: 100px;
           width: 100%;
           margin-top: auto;
-          background-image: linear-gradient(#fff0, white);
+          background-image: linear-gradient(rgba(0, 0, 0, 0), white);
         }
       }
 

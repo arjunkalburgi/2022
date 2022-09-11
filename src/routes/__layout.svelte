@@ -14,9 +14,9 @@
     <slot />
   </main>
 
-  <footer>
+  <!-- <footer>
     <p>hit me up at <a href="mailto:askalburgi@gmail.com">askalburgi@gmail.com</a> to chat</p>
-  </footer>
+  </footer> -->
 </div>
 
 <style lang="scss">

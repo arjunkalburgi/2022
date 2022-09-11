@@ -1,33 +1,41 @@
 <script>
+  import { onMount } from 'svelte';
+  import { animate } from '@arjunanimations/leaves';
+
   export let alt;
   export let src;
+
+  const animationData = {
+    className: 'elements_animation_container',
+    numOfSprites: 5,
+    pathsOfSprites: ['/favicon.png']
+  };
+
+  onMount(() => {
+    // animate(animationData);
+  });
 </script>
 
-<div>
-  <div class="oval" />
-  <img {alt} {src} />
+<div class="elements_animation_container">
+  <img class="oval" src="/oval.png" alt="" />
+  <img class="main" {alt} {src} />
 </div>
 
 <style lang="scss">
   div {
     position: relative;
   }
-  img {
+  .main {
     width: 100%;
   }
   .oval {
-    width: 75%;
-    height: 180px;
-    background: #a84909;
-    border-radius: 100%;
+    width: 100%;
     position: absolute;
-    left: 15%;
-    bottom: -80px;
+    bottom: -18%;
     z-index: -1;
 
     @media screen and (max-width: 40rem) {
-      height: 70px;
-      bottom: -20px;
+      // bottom: -20px;
     }
   }
 </style>
