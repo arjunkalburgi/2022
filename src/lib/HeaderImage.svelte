@@ -29,10 +29,13 @@
     width: 100%;
   }
   .oval {
-    width: 100%;
+    width: 80%;
     position: absolute;
     bottom: -18%;
     z-index: -1;
+    left: 0;
+    right: 0;
+    margin: auto;
 
     @media screen and (max-width: 40rem) {
       // bottom: -20px;

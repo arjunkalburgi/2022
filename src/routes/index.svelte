@@ -2,6 +2,7 @@
   import { onMount } from 'svelte';
   import { animate } from '@arjunanimations/leaves';
   import HeaderImage from '$lib/HeaderImage.svelte';
+  import CanIHaveYoEmail from '$lib/CanIHaveYoEmail.svelte';
 
   const animationData = {
     className: 'bg_animation_container',
@@ -32,17 +33,14 @@
       <HeaderImage alt="me with a big smile, welcoming you to my site" src="/welcome.gif" />
     </div>
     <div>
-      <p>⚠️ work being done, please come back soon</p>
-      <h2>Hiya!</h2>
+      <p class="small">⚠️ work being done, please come back soon</p>
+      <h2>Heyyy yaaa!</h2>
       <p>Welcome to my site, tysm for coming 🙏🏾</p>
       <p>
         I believe everything is better together, so let's hang out! We can share coffee on a video
         call, host a movie night together, or even build the company of our dreams.
       </p>
-      <p>
-        hit me up at <a href="mailto:askalburgi@gmail.com">askalburgi@gmail.com</a> - let's make things
-        happen
-      </p>
+      <CanIHaveYoEmail />
     </div>
   </div>
 </section>
@@ -84,6 +82,19 @@
 
         .img_container {
           width: 100%;
+        }
+
+        p.small {
+          font-size: small;
+        }
+
+        h2 {
+          margin-top: 1.5rem;
+          margin-bottom: 0.5rem;
+        }
+
+        h2 + p {
+          margin-top: 0.5rem;
         }
       }
     }
