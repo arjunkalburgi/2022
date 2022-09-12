@@ -4,6 +4,8 @@
   let emailInput;
   let emailSent = false;
   let submitEmail = () => {
+    if (!emailInput) return false;
+
     fetch('https://formcarry.com/s/Mmwa-p-fN', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
@@ -18,12 +20,14 @@
 <div class="have_yo_email_container">
   {#if !emailSent}
     <form on:submit|preventDefault={submitEmail} out:fade>
-      <input type="email" placeholder="put-your@email.here" bind:value={emailInput} />
+      <input type="email" id="email" placeholder="put-your@email.here" bind:value={emailInput} />
       <button type="submit">⇨</button>
     </form>
-    <p out:fade>enter your email and I'll reach out! Let's talk about your ideas</p>
+    <label for="email" out:fade>
+      enter your email and I'll reach out! Let's talk about your ideas
+    </label>
   {:else}
-    <p in:fade={{ delay: 1000 }}>whoohoo! I'll reach out to you soon 😄</p>
+    <p in:fade={{ delay: 1000 }}>whoohoo - email received! I'll reach out to you soon 😄</p>
   {/if}
 </div>
 
@@ -38,11 +42,11 @@
       width: 250px;
 
       input {
-        border: 1px solid transparent;
+        border: 1px solid #ddd;
         border-radius: 1px;
         width: 250px;
-        padding: 3px 0 3px 0.2rem;
-        font-size: small;
+        padding: 5px 0 5px 0.4rem;
+        font-size: 0.9rem;
 
         &:active,
         &:focus-visible {
@@ -51,21 +55,21 @@
         }
 
         &::placeholder {
-          font-size: small;
+          font-size: 0.9rem;
         }
       }
 
       button {
         cursor: pointer;
-        font-size: small;
+        font-size: 0.9rem;
         background: none;
         border: 1px solid transparent;
         border-radius: 1px;
         position: absolute;
-        right: -5px;
-        top: 2px;
+        right: -8px;
+        top: 0px;
         bottom: 0px;
-        padding: 0px 3px;
+        padding: 0px 7px;
 
         &:focus-visible,
         &:active {
@@ -75,8 +79,9 @@
       }
     }
 
+    label,
     p {
-      font-size: small;
+      font-size: 0.9rem;
       margin: 0.25rem 0;
     }
   }

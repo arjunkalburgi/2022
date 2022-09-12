@@ -32,7 +32,7 @@
     <div class="img_container">
       <HeaderImage alt="me with a big smile, welcoming you to my site" src="/welcome.gif" />
     </div>
-    <div>
+    <div class="txt_container">
       <p class="small">⚠️ work being done, please come back soon</p>
       <h2>Heyyy yaaa!</h2>
       <p>Welcome to my site, tysm for coming 🙏🏾</p>
@@ -76,16 +76,16 @@
       .content {
         display: grid;
         grid-template-columns: 40% auto;
-        padding: 0 10vw;
         grid-gap: 5vw;
         align-items: center;
+        padding: 0 10vw;
 
         .img_container {
           width: 100%;
         }
 
         p.small {
-          font-size: small;
+          font-size: 0.9rem;
         }
 
         h2 {
@@ -111,6 +111,11 @@
           display: flex;
           flex-direction: column;
           align-items: flex-start;
+          padding: 0 7vw;
+
+          .txt_container {
+            margin-top: 2rem;
+          }
 
           .img_container {
             width: 70%;
