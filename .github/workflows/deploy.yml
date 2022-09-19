@@ -23,10 +23,13 @@ jobs:
       - name: Build
         run: |
           npm install
-          npm run-script build
+          npm run build
+          
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@3.3.2
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages
-          FOLDER: build
+        run: | 
+          npm run deploy
+        # uses: JamesIves/github-pages-deploy-action@3.3.2
+        # with:
+        #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        #   BRANCH: gh-pages
+        #   FOLDER: build
