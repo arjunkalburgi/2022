@@ -11,7 +11,7 @@ export const handle = async ({ request, resolve }) => {
 		request.method = method.toUpperCase();
 	}
 
-	const response = await resolve(request);
+	const response = await resolve(request, { ssr: false });
 
 	if (!cookies.userid) {
 		// if this is the first time the user has visited this app,
